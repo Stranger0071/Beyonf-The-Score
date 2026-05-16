@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 
 // Replace this string with your actual Gemini API key
-const GEMINI_API_KEY = "AIzaSyBgpxjAuUYbfm2kOfXBOzTsomwG7Ar-9YE"
+const GEMINI_API_KEY = ""
 
 export default function MatchNarration({ match }) {
   const [narration, setNarration] = useState('')
