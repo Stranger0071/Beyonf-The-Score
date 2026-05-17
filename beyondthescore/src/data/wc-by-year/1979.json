@@ -1,0 +1,572 @@
+[
+  {
+    "id": "2875",
+    "year": 1979,
+    "venue": "Headingley, Leeds",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 8 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Canada",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 1",
+        "stat": "Pakistan won by 8 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2876",
+    "year": 1979,
+    "venue": "Lord's, London",
+    "winner": "Unknown",
+    "margin": "England won by 6 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 2",
+        "stat": "England won by 6 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2877",
+    "year": 1979,
+    "venue": "Edgbaston, Birmingham",
+    "winner": "Unknown",
+    "margin": "West Indies won by 9 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "West Indies",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 3",
+        "stat": "West Indies won by 9 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2878",
+    "year": 1979,
+    "venue": "Trent Bridge, Nottingham",
+    "winner": "Unknown",
+    "margin": "New Zealand won by 9 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "New Zealand",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 4",
+        "stat": "New Zealand won by 9 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2879",
+    "year": 1979,
+    "venue": "Trent Bridge, Nottingham",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 89 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 5",
+        "stat": "Pakistan won by 89 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2880",
+    "year": 1979,
+    "venue": "Old Trafford, Manchester",
+    "winner": "Unknown",
+    "margin": "England won by 8 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Canada",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 6",
+        "stat": "England won by 8 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2881",
+    "year": 1979,
+    "venue": "Headingley, Leeds",
+    "winner": "Unknown",
+    "margin": "New Zealand won by 8 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "New Zealand",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 7",
+        "stat": "New Zealand won by 8 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2882",
+    "year": 1979,
+    "venue": "The Oval, London",
+    "winner": "",
+    "margin": "Match abandoned without a ball bowled",
+    "winOutcome": "runs",
+    "tossWinner": "",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match abandoned without a ball bowled",
+        "stat": "Match abandoned without a ball bowled",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2883",
+    "year": 1979,
+    "venue": "Edgbaston, Birmingham",
+    "winner": "Unknown",
+    "margin": "Australia won by 7 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 9",
+        "stat": "Australia won by 7 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2884",
+    "year": 1979,
+    "venue": "Headingley, Leeds",
+    "winner": "Unknown",
+    "margin": "England won by 14 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Pakistan",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 10",
+        "stat": "England won by 14 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2885",
+    "year": 1979,
+    "venue": "Old Trafford, Manchester",
+    "winner": "Unknown",
+    "margin": "Sri Lanka won by 47 runs",
+    "winOutcome": "runs",
+    "tossWinner": "India",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 11",
+        "stat": "Sri Lanka won by 47 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2886",
+    "year": 1979,
+    "venue": "Trent Bridge, Nottingham",
+    "winner": "Unknown",
+    "margin": "West Indies won by 32 runs",
+    "winOutcome": "runs",
+    "tossWinner": "New Zealand",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 12",
+        "stat": "West Indies won by 32 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2887",
+    "year": 1979,
+    "venue": "Old Trafford, Manchester",
+    "winner": "Unknown",
+    "margin": "England won by 9 runs",
+    "winOutcome": "runs",
+    "tossWinner": "New Zealand",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Semi-Final",
+        "stat": "England won by 9 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2888",
+    "year": 1979,
+    "venue": "The Oval, London",
+    "winner": "Unknown",
+    "margin": "West Indies won by 43 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Pakistan",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Semi-Final",
+        "stat": "West Indies won by 43 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2889",
+    "year": 1979,
+    "venue": "Lord's, London",
+    "winner": "Unknown",
+    "margin": "West Indies won by 92 runs",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Final",
+        "stat": "West Indies won by 92 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  }
+]

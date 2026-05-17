@@ -1,0 +1,1598 @@
+[
+  {
+    "id": "3026",
+    "year": 1999,
+    "venue": "Lord's, London",
+    "winner": "Unknown",
+    "margin": "England won by 8 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 1",
+        "stat": "England won by 8 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3027",
+    "year": 1999,
+    "venue": "The 1st Central County Ground, Hove",
+    "winner": "Unknown",
+    "margin": "South Africa won by 4 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "India",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 2",
+        "stat": "South Africa won by 4 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3028",
+    "year": 1999,
+    "venue": "The County Ground, Taunton",
+    "winner": "Unknown",
+    "margin": "Zimbabwe won by 5 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Zimbabwe",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 3",
+        "stat": "Zimbabwe won by 5 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3029",
+    "year": 1999,
+    "venue": "County Ground, Worcester",
+    "winner": "Unknown",
+    "margin": "Australia won by 6 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 4",
+        "stat": "Australia won by 6 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3030",
+    "year": 1999,
+    "venue": "Bristol County Ground, Bristol",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 27 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Pakistan",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 5",
+        "stat": "Pakistan won by 27 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3031",
+    "year": 1999,
+    "venue": "The Cloudfm County Ground, Chelmsford",
+    "winner": "Unknown",
+    "margin": "New Zealand won by 6 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "New Zealand",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 6",
+        "stat": "New Zealand won by 6 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3032",
+    "year": 1999,
+    "venue": "St Lawrence Ground, Canterbury",
+    "winner": "Unknown",
+    "margin": "England won by 9 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 7",
+        "stat": "England won by 9 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3033",
+    "year": 1999,
+    "venue": "Grace Road, Leicester",
+    "winner": "Unknown",
+    "margin": "Zimbabwe won by 3 runs",
+    "winOutcome": "runs",
+    "tossWinner": "India",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 8",
+        "stat": "Zimbabwe won by 3 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3034",
+    "year": 1999,
+    "venue": "The County Ground, Northampton",
+    "winner": "Unknown",
+    "margin": "South Africa won by 89 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Sri Lanka",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 9",
+        "stat": "South Africa won by 89 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3035",
+    "year": 1999,
+    "venue": "Cardiff Wales Stadium, Cardiff",
+    "winner": "Unknown",
+    "margin": "New Zealand won by 5 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 10",
+        "stat": "New Zealand won by 5 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3036",
+    "year": 1999,
+    "venue": "Emirates Riverside, Chester-le-Street",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 94 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Scotland",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 11",
+        "stat": "Pakistan won by 94 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3037",
+    "year": 1999,
+    "venue": "Castle Avenue, Dublin",
+    "winner": "Unknown",
+    "margin": "West Indies won by 7 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Bangladesh",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 12",
+        "stat": "West Indies won by 7 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3038",
+    "year": 1999,
+    "venue": "The Oval, London",
+    "winner": "Unknown",
+    "margin": "South Africa won by 122 runs",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 13",
+        "stat": "South Africa won by 122 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3039",
+    "year": 1999,
+    "venue": "County Ground, Worcester",
+    "winner": "Unknown",
+    "margin": "Sri Lanka won by 4 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Sri Lanka",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 14",
+        "stat": "Sri Lanka won by 4 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3040",
+    "year": 1999,
+    "venue": "Headingley, Leeds",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 10 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 15",
+        "stat": "Pakistan won by 10 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3041",
+    "year": 1999,
+    "venue": "Bristol County Ground, Bristol",
+    "winner": "Unknown",
+    "margin": "India won by 94 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Kenya",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 16",
+        "stat": "India won by 94 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3042",
+    "year": 1999,
+    "venue": "The Ageas Bowl, Southampton",
+    "winner": "Unknown",
+    "margin": "West Indies won by 7 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "West Indies",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 17",
+        "stat": "West Indies won by 7 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3043",
+    "year": 1999,
+    "venue": "Grange Cricket Club Ground, Edinburgh",
+    "winner": "Unknown",
+    "margin": "Bangladesh won by 22 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Scotland",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 18",
+        "stat": "Bangladesh won by 22 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3044",
+    "year": 1999,
+    "venue": "Trent Bridge, Nottingham",
+    "winner": "Unknown",
+    "margin": "England won by 7 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 19",
+        "stat": "England won by 7 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3045",
+    "year": 1999,
+    "venue": "VRA Cricket Ground, Amstelveen",
+    "winner": "Unknown",
+    "margin": "South Africa won by 7 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "South Africa",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 20",
+        "stat": "South Africa won by 7 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3046",
+    "year": 1999,
+    "venue": "The County Ground, Taunton",
+    "winner": "Unknown",
+    "margin": "India won by 157 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Sri Lanka",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 21",
+        "stat": "India won by 157 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3047",
+    "year": 1999,
+    "venue": "Emirates Riverside, Chester-le-Street",
+    "winner": "Unknown",
+    "margin": "Australia won by 7 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 22",
+        "stat": "Australia won by 7 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3048",
+    "year": 1999,
+    "venue": "Grace Road, Leicester",
+    "winner": "Unknown",
+    "margin": "West Indies won by 8 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Scotland",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 23",
+        "stat": "West Indies won by 8 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3049",
+    "year": 1999,
+    "venue": "County Ground, Derby",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 62 runs",
+    "winOutcome": "runs",
+    "tossWinner": "New Zealand",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 24",
+        "stat": "Pakistan won by 62 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3050",
+    "year": 1999,
+    "venue": "Edgbaston, Birmingham",
+    "winner": "Unknown",
+    "margin": "India won by 63 runs",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 25",
+        "stat": "India won by 63 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3051",
+    "year": 1999,
+    "venue": "The Cloudfm County Ground, Chelmsford",
+    "winner": "Unknown",
+    "margin": "Zimbabwe won by 48 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Zimbabwe",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 26",
+        "stat": "Zimbabwe won by 48 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3052",
+    "year": 1999,
+    "venue": "Old Trafford, Manchester",
+    "winner": "Unknown",
+    "margin": "Australia won by 6 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 27",
+        "stat": "Australia won by 6 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3053",
+    "year": 1999,
+    "venue": "The Ageas Bowl, Southampton",
+    "winner": "Unknown",
+    "margin": "Sri Lanka won by 45 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Kenya",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 28",
+        "stat": "Sri Lanka won by 45 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3054",
+    "year": 1999,
+    "venue": "The County Ground, Northampton",
+    "winner": "Unknown",
+    "margin": "Bangladesh won by 62 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Pakistan",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 29",
+        "stat": "Bangladesh won by 62 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3055",
+    "year": 1999,
+    "venue": "Grange Cricket Club Ground, Edinburgh",
+    "winner": "Unknown",
+    "margin": "New Zealand won by 6 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "New Zealand",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 30",
+        "stat": "New Zealand won by 6 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3056",
+    "year": 1999,
+    "venue": "The Oval, London",
+    "winner": "Unknown",
+    "margin": "Australia won by 77 runs",
+    "winOutcome": "runs",
+    "tossWinner": "India",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 31",
+        "stat": "Australia won by 77 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3057",
+    "year": 1999,
+    "venue": "Trent Bridge, Nottingham",
+    "winner": "Unknown",
+    "margin": "South Africa won by 3 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Pakistan",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 32",
+        "stat": "South Africa won by 3 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3058",
+    "year": 1999,
+    "venue": "Headingley, Leeds",
+    "winner": "Zimbabwe",
+    "margin": "No result",
+    "winOutcome": "runs",
+    "tossWinner": "Zimbabwe",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "No result",
+        "stat": "No result",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3059",
+    "year": 1999,
+    "venue": "Old Trafford, Manchester",
+    "winner": "Unknown",
+    "margin": "India won by 47 runs",
+    "winOutcome": "runs",
+    "tossWinner": "India",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 34",
+        "stat": "India won by 47 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3060",
+    "year": 1999,
+    "venue": "Lord's, London",
+    "winner": "Unknown",
+    "margin": "Australia won by 44 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Zimbabwe",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 35",
+        "stat": "Australia won by 44 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3061",
+    "year": 1999,
+    "venue": "Edgbaston, Birmingham",
+    "winner": "Unknown",
+    "margin": "South Africa won by 74 runs",
+    "winOutcome": "runs",
+    "tossWinner": "South Africa",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 36",
+        "stat": "South Africa won by 74 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3062",
+    "year": 1999,
+    "venue": "The Oval, London",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 148 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Pakistan",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 37",
+        "stat": "Pakistan won by 148 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3063",
+    "year": 1999,
+    "venue": "Trent Bridge, Nottingham",
+    "winner": "Unknown",
+    "margin": "New Zealand won by 5 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "India",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 38",
+        "stat": "New Zealand won by 5 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3064",
+    "year": 1999,
+    "venue": "Headingley, Leeds",
+    "winner": "Unknown",
+    "margin": "Australia won by 5 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "South Africa",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 39",
+        "stat": "Australia won by 5 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3065",
+    "year": 1999,
+    "venue": "Old Trafford, Manchester",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 9 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "New Zealand",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Semi-Final",
+        "stat": "Pakistan won by 9 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3066",
+    "year": 1999,
+    "venue": "Edgbaston, Birmingham",
+    "winner": "South Africa",
+    "margin": "Match tied",
+    "winOutcome": "runs",
+    "tossWinner": "South Africa",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match tied",
+        "stat": "Match tied",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3067",
+    "year": 1999,
+    "venue": "Lord's, London",
+    "winner": "Unknown",
+    "margin": "Australia won by 8 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Pakistan",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Final",
+        "stat": "Australia won by 8 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  }
+]

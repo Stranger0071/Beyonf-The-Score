@@ -1,0 +1,8490 @@
+[
+  {
+    "id": "22693",
+    "year": 2021,
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "winner": "Unknown",
+    "margin": "United Arab Emirates win by 6 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Ireland",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 269,
+      "wickets": 5,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 273,
+      "wickets": 4,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 269,
+        "wickets": 5,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.38,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 273,
+        "wickets": 4,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.57,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "United Arab Emirates won by 6 wickets",
+        "stat": "United Arab Emirates win by 6 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22694",
+    "year": 2021,
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "winner": "",
+    "margin": "Teams will be announced at the toss",
+    "winOutcome": "runs",
+    "tossWinner": "",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "2nd ODI",
+        "stat": "Teams will be announced at the toss",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22695",
+    "year": 2021,
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "winner": "",
+    "margin": "Teams will be announced at the toss",
+    "winOutcome": "runs",
+    "tossWinner": "",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "3rd ODI",
+        "stat": "Teams will be announced at the toss",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22696",
+    "year": 2021,
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "winner": "Unknown",
+    "margin": "Ireland win by 112 runs",
+    "winOutcome": "runs",
+    "tossWinner": "United Arab Emirates",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 228,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 116,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 228,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.56,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 116,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.22,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "4th ODI",
+        "stat": "Ireland win by 112 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22538",
+    "year": 2021,
+    "venue": "Sher-e-Bangla National Cricket Stadium, Mirpur",
+    "winner": "Unknown",
+    "margin": "Bangladesh won by 6 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Bangladesh",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 122,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 125,
+      "wickets": 4,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 122,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.77,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 125,
+        "wickets": 4,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.69,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Bangladesh win by 6 wickets",
+        "stat": "Bangladesh won by 6 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22418",
+    "year": 2021,
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "winner": "Unknown",
+    "margin": "Afghanistan won by 16 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Afghanistan",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 287,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 271,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 287,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.74,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 271,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.42,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Afghanistan win by 16 runs",
+        "stat": "Afghanistan won by 16 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22539",
+    "year": 2021,
+    "venue": "Sher-e-Bangla National Cricket Stadium, Mirpur",
+    "winner": "Unknown",
+    "margin": "Bangladesh won by 7 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "West Indies",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 148,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 149,
+      "wickets": 3,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 148,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.38,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 149,
+        "wickets": 3,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.47,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Bangladesh win by 7 wickets",
+        "stat": "Bangladesh won by 7 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22419",
+    "year": 2021,
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "winner": "Unknown",
+    "margin": "Afghanistan won by 7 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Ireland",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 259,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 260,
+      "wickets": 3,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 259,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.18,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 260,
+        "wickets": 3,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.73,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Afghanistan win by 7 wickets",
+        "stat": "Afghanistan won by 7 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22540",
+    "year": 2021,
+    "venue": "Zahur Ahmed Chowdhury Stadium, Chittagong",
+    "winner": "Unknown",
+    "margin": "Bangladesh won by 120 runs",
+    "winOutcome": "runs",
+    "tossWinner": "West Indies",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 297,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 177,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 297,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.94,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 177,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.99,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Bangladesh win by 120 runs",
+        "stat": "Bangladesh won by 120 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22420",
+    "year": 2021,
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "winner": "Unknown",
+    "margin": "Afghanistan won by 36 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Ireland",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 266,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 230,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 266,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.32,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 230,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.87,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Afghanistan win by 36 runs",
+        "stat": "Afghanistan won by 36 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "23204",
+    "year": 2021,
+    "venue": "Sir Vivian Richards Stadium, North Sound",
+    "winner": "Unknown",
+    "margin": "West Indies won by 8 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Sri Lanka",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 232,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 236,
+      "wickets": 2,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 232,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.73,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 236,
+        "wickets": 2,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.02,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "West Indies win by 8 wickets",
+        "stat": "West Indies won by 8 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "23205",
+    "year": 2021,
+    "venue": "Sir Vivian Richards Stadium, North Sound",
+    "winner": "Unknown",
+    "margin": "West Indies won by 5 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "West Indies",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 273,
+      "wickets": 8,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 274,
+      "wickets": 5,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 273,
+        "wickets": 8,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.46,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 274,
+        "wickets": 5,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.51,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "West Indies win by 5 wickets",
+        "stat": "West Indies won by 5 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "23206",
+    "year": 2021,
+    "venue": "Sir Vivian Richards Stadium, North Sound",
+    "winner": "Unknown",
+    "margin": "West Indies won by 5 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "West Indies",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 274,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 276,
+      "wickets": 5,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 274,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.48,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 276,
+        "wickets": 5,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.69,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "West Indies win by 5 wickets",
+        "stat": "West Indies won by 5 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22389",
+    "year": 2021,
+    "venue": "University Oval, Dunedin",
+    "winner": "Unknown",
+    "margin": "New Zealand won by 8 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "New Zealand",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 131,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 132,
+      "wickets": 2,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 131,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.13,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 132,
+        "wickets": 2,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.18,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "New Zealand win by 8 wickets",
+        "stat": "New Zealand won by 8 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22390",
+    "year": 2021,
+    "venue": "Hagley Oval, Christchurch",
+    "winner": "Unknown",
+    "margin": "New Zealand won by 5 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "New Zealand",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 271,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 275,
+      "wickets": 5,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 271,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.42,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 275,
+        "wickets": 5,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.68,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "New Zealand win by 5 wickets",
+        "stat": "New Zealand won by 5 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22465",
+    "year": 2021,
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "winner": "Unknown",
+    "margin": "India won by 66 runs",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 317,
+      "wickets": 5,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 251,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 317,
+        "wickets": 5,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.34,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 251,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.95,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "1st ODI",
+        "stat": "India won by 66 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22391",
+    "year": 2021,
+    "venue": "Basin Reserve, Wellington",
+    "winner": "Unknown",
+    "margin": "New Zealand won by 164 runs",
+    "winOutcome": "runs",
+    "tossWinner": "New Zealand",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 318,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 154,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 318,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.36,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 154,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.6,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "New Zealand win by 164 runs",
+        "stat": "New Zealand won by 164 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22466",
+    "year": 2021,
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "winner": "Unknown",
+    "margin": "England won by 6 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 336,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 337,
+      "wickets": 4,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 336,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.72,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 337,
+        "wickets": 4,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 7.74,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "2nd ODI",
+        "stat": "England won by 6 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22467",
+    "year": 2021,
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "winner": "Unknown",
+    "margin": "India won by 7 runs",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 329,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 322,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 329,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.8,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 322,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.44,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "3rd ODI",
+        "stat": "India won by 7 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "23179",
+    "year": 2021,
+    "venue": "Supersport Park, Centurion",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 3 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Pakistan",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 273,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 274,
+      "wickets": 7,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 273,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.46,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 274,
+        "wickets": 7,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.48,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Pakistan win by 3 wickets",
+        "stat": "Pakistan won by 3 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "23180",
+    "year": 2021,
+    "venue": "New Wanderers Stadium, Johannesburg",
+    "winner": "Unknown",
+    "margin": "South Africa won by 17 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Pakistan",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 341,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 324,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 341,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.82,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 324,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.48,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "South Africa win by 17 runs",
+        "stat": "South Africa won by 17 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "23181",
+    "year": 2021,
+    "venue": "Supersport Park, Centurion",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 28 runs",
+    "winOutcome": "runs",
+    "tossWinner": "South Africa",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 320,
+      "wickets": 7,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 292,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 320,
+        "wickets": 7,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.4,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 292,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.89,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Pakistan win by 28 runs",
+        "stat": "Pakistan won by 28 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31749",
+    "year": 2021,
+    "venue": "Hazelaarweg, Rotterdam",
+    "winner": "Unknown",
+    "margin": "Netherlands win by 14 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Netherlands",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 163,
+      "wickets": 8,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 149,
+      "wickets": 8,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 163,
+        "wickets": 8,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.93,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 149,
+        "wickets": 8,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.51,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Netherlands win by 14 runs",
+        "stat": "Netherlands win by 14 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31750",
+    "year": 2021,
+    "venue": "Hazelaarweg, Rotterdam",
+    "winner": "Unknown",
+    "margin": "Scotland win by 6 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Netherlands",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 171,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 172,
+      "wickets": 4,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 171,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.51,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 172,
+        "wickets": 4,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.07,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Scotland win by 6 wickets",
+        "stat": "Scotland win by 6 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31758",
+    "year": 2021,
+    "venue": "Sher-e-Bangla National Cricket Stadium, Mirpur",
+    "winner": "Unknown",
+    "margin": "Bangladesh won by 33 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Bangladesh",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 257,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 224,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 257,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.14,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 224,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.65,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Bangladesh win by 33 runs",
+        "stat": "Bangladesh won by 33 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31759",
+    "year": 2021,
+    "venue": "Sher-e-Bangla National Cricket Stadium, Mirpur",
+    "winner": "Unknown",
+    "margin": "Bangladesh won by 103 runs (DLS Method)",
+    "winOutcome": "runs",
+    "tossWinner": "Bangladesh",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 246,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 141,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 246,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.1,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 141,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.52,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Bangladesh win by 103 runs (DLS Method)",
+        "stat": "Bangladesh won by 103 runs (DLS Method)",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31760",
+    "year": 2021,
+    "venue": "Sher-e-Bangla National Cricket Stadium, Mirpur",
+    "winner": "Unknown",
+    "margin": "Sri Lanka won by 97 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Sri Lanka",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 286,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 189,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 286,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.72,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 189,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.44,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Sri Lanka win by 97 runs",
+        "stat": "Sri Lanka won by 97 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31752",
+    "year": 2021,
+    "venue": "Sportpark Maarschalkerweerd, Utrecht",
+    "winner": "Unknown",
+    "margin": "Netherlands won by 1 run",
+    "winOutcome": "runs",
+    "tossWinner": "Netherlands",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 195,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 194,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 195,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.9,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 194,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.88,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Netherlands win by 1 run",
+        "stat": "Netherlands won by 1 run",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31753",
+    "year": 2021,
+    "venue": "Sportpark Maarschalkerweerd, Utrecht",
+    "winner": "Unknown",
+    "margin": "Ireland won by 8 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Netherlands",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 157,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 158,
+      "wickets": 2,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 157,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.18,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 158,
+        "wickets": 2,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.67,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Ireland win by 8 wickets",
+        "stat": "Ireland won by 8 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31754",
+    "year": 2021,
+    "venue": "Sportpark Maarschalkerweerd, Utrecht",
+    "winner": "Unknown",
+    "margin": "Netherlands won by 4 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Ireland",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 163,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 166,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 163,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.3,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 166,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.62,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Netherlands win by 4 wickets",
+        "stat": "Netherlands won by 4 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22425",
+    "year": 2021,
+    "venue": "Emirates Riverside, Chester-le-Street",
+    "winner": "Unknown",
+    "margin": "England won by 5 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 185,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 189,
+      "wickets": 5,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 185,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.35,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 189,
+        "wickets": 5,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.42,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "England win by 5 wickets",
+        "stat": "England won by 5 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22426",
+    "year": 2021,
+    "venue": "The Oval, London",
+    "winner": "Unknown",
+    "margin": "England won by 8 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 241,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 244,
+      "wickets": 2,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 241,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.82,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 244,
+        "wickets": 2,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.67,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "England win by 8 wickets",
+        "stat": "England won by 8 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22427",
+    "year": 2021,
+    "venue": "Bristol County Ground, Bristol",
+    "winner": "England",
+    "margin": "No Result",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 166,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 166,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.03,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "No Result",
+        "stat": "No Result",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22429",
+    "year": 2021,
+    "venue": "Cardiff Wales Stadium, Cardiff",
+    "winner": "Unknown",
+    "margin": "England won by 9 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 141,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 142,
+      "wickets": 1,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 141,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.99,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 142,
+        "wickets": 1,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.5,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "England win by 9 wickets",
+        "stat": "England won by 9 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22430",
+    "year": 2021,
+    "venue": "Lord's, London",
+    "winner": "Unknown",
+    "margin": "England won by 52 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Pakistan",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 247,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 195,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 247,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.44,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 195,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.75,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "England win by 52 runs",
+        "stat": "England won by 52 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "23188",
+    "year": 2021,
+    "venue": "The Village, Dublin",
+    "winner": "South Africa",
+    "margin": "No Result",
+    "winOutcome": "runs",
+    "tossWinner": "South Africa",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 195,
+      "wickets": 4,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 195,
+        "wickets": 4,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.83,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "No Result",
+        "stat": "No Result",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "23189",
+    "year": 2021,
+    "venue": "The Village, Dublin",
+    "winner": "Unknown",
+    "margin": "Ireland won by 43 runs",
+    "winOutcome": "runs",
+    "tossWinner": "South Africa",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 290,
+      "wickets": 5,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 247,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 290,
+        "wickets": 5,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.8,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 247,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.09,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Ireland win by 43 runs",
+        "stat": "Ireland won by 43 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "22431",
+    "year": 2021,
+    "venue": "Edgbaston, Birmingham",
+    "winner": "Unknown",
+    "margin": "England won by 3 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 331,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 332,
+      "wickets": 7,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 331,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.62,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 332,
+        "wickets": 7,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.91,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "England win by 3 wickets",
+        "stat": "England won by 3 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31898",
+    "year": 2021,
+    "venue": "Harare Sports Club, Harare",
+    "winner": "Unknown",
+    "margin": "Bangladesh won by 155 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Zimbabwe",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 276,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 121,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 276,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.52,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 121,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.19,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Bangladesh win by 155 runs",
+        "stat": "Bangladesh won by 155 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "23190",
+    "year": 2021,
+    "venue": "The Village, Dublin",
+    "winner": "Unknown",
+    "margin": "South Africa won by 70 runs",
+    "winOutcome": "runs",
+    "tossWinner": "South Africa",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 346,
+      "wickets": 4,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 276,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 346,
+        "wickets": 4,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.92,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 276,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.85,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "South Africa win by 70 runs",
+        "stat": "South Africa won by 70 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31899",
+    "year": 2021,
+    "venue": "Harare Sports Club, Harare",
+    "winner": "Unknown",
+    "margin": "Bangladesh won by 3 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Zimbabwe",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 240,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 242,
+      "wickets": 7,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 240,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.8,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 242,
+        "wickets": 7,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.92,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Bangladesh win by 3 wickets",
+        "stat": "Bangladesh won by 3 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31874",
+    "year": 2021,
+    "venue": "R Premadasa Stadium, Colombo",
+    "winner": "Unknown",
+    "margin": "India won by 7 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Sri Lanka",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 262,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 263,
+      "wickets": 3,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 262,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.24,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 263,
+        "wickets": 3,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 7.17,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "1st ODI",
+        "stat": "India won by 7 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31900",
+    "year": 2021,
+    "venue": "Harare Sports Club, Harare",
+    "winner": "Unknown",
+    "margin": "Bangladesh won by 5 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Bangladesh",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 298,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 302,
+      "wickets": 5,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 298,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.02,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 302,
+        "wickets": 5,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.29,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Bangladesh win by 5 wickets",
+        "stat": "Bangladesh won by 5 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31875",
+    "year": 2021,
+    "venue": "R Premadasa Stadium, Colombo",
+    "winner": "Unknown",
+    "margin": "India won by 3 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Sri Lanka",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 275,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 277,
+      "wickets": 7,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 275,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.5,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 277,
+        "wickets": 7,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.63,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "2nd ODI",
+        "stat": "India won by 3 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31784",
+    "year": 2021,
+    "venue": "Kensington Oval, Bridgetown",
+    "winner": "Unknown",
+    "margin": "Australia won by 133 runs (DLS Method)",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 252,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 123,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 252,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.14,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 123,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.67,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Australia win by 133 runs (DLS Method)",
+        "stat": "Australia won by 133 runs (DLS Method)",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31785",
+    "year": 2021,
+    "venue": "Kensington Oval, Bridgetown",
+    "winner": "Australia",
+    "margin": "Match abandoned without a ball bowled",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match abandoned without a ball bowled",
+        "stat": "Match abandoned without a ball bowled",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31876",
+    "year": 2021,
+    "venue": "R Premadasa Stadium, Colombo",
+    "winner": "Unknown",
+    "margin": "Sri Lanka won by 3 wickets (DLS Method)",
+    "winOutcome": "runs",
+    "tossWinner": "India",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 225,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 227,
+      "wickets": 7,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 225,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.21,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 227,
+        "wickets": 7,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.82,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Sri Lanka win by 3 wickets (DLS Method)",
+        "stat": "Sri Lanka won by 3 wickets (DLS Method)",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31786",
+    "year": 2021,
+    "venue": "Kensington Oval, Bridgetown",
+    "winner": "Unknown",
+    "margin": "West Indies won by 4 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 187,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 191,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 187,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.96,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 191,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.02,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "West Indies win by 4 wickets",
+        "stat": "West Indies won by 4 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32211",
+    "year": 2021,
+    "venue": "Kensington Oval, Bridgetown",
+    "winner": "Unknown",
+    "margin": "Australia won by 6 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "West Indies",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 152,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 153,
+      "wickets": 4,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 152,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.36,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 153,
+        "wickets": 4,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.01,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Australia win by 6 wickets",
+        "stat": "Australia won by 6 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32256",
+    "year": 2021,
+    "venue": "R Premadasa Stadium, Colombo",
+    "winner": "Unknown",
+    "margin": "Sri Lanka won by 14 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Sri Lanka",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 300,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 286,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 300,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 286,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.72,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Sri Lanka win by 14 runs",
+        "stat": "Sri Lanka won by 14 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32257",
+    "year": 2021,
+    "venue": "R Premadasa Stadium, Colombo",
+    "winner": "Unknown",
+    "margin": "South Africa won by 67 runs (DLS Method)",
+    "winOutcome": "runs",
+    "tossWinner": "South Africa",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 283,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 197,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 283,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.02,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 197,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.37,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "South Africa win by 67 runs (DLS Method)",
+        "stat": "South Africa won by 67 runs (DLS Method)",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32510",
+    "year": 2021,
+    "venue": "OC Turf 2, Al Amarat",
+    "winner": "Unknown",
+    "margin": "United States of America won by 7 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Papua New Guinea",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 158,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 159,
+      "wickets": 3,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 158,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.56,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 159,
+        "wickets": 3,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.61,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "United States of America won by 7 wickets",
+        "stat": "United States of America won by 7 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32508",
+    "year": 2021,
+    "venue": "OC Turf 1, Al Amarat",
+    "winner": "Unknown",
+    "margin": "Nepal won by 2 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Papua New Guinea",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 134,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 135,
+      "wickets": 8,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 134,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.06,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 135,
+        "wickets": 8,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.41,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Nepal won by 2 wickets",
+        "stat": "Nepal won by 2 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32258",
+    "year": 2021,
+    "venue": "R Premadasa Stadium, Colombo",
+    "winner": "Unknown",
+    "margin": "Sri Lanka won by 78 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Sri Lanka",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 203,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 125,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 203,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.06,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 125,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.16,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Sri Lanka win by 78 runs",
+        "stat": "Sri Lanka won by 78 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "23200",
+    "year": 2021,
+    "venue": "Civil Service Cricket Club, Belfast",
+    "winner": "Unknown",
+    "margin": "Zimbabwe won by 38 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Ireland",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 266,
+      "wickets": 7,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 228,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 266,
+        "wickets": 7,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.32,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 228,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.68,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Zimbabwe win by 38 runs",
+        "stat": "Zimbabwe won by 38 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32511",
+    "year": 2021,
+    "venue": "OC Turf 2, Al Amarat",
+    "winner": "Unknown",
+    "margin": "United States of America won by 134 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Papua New Guinea",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 271,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 137,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 271,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.42,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 137,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.68,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "United States of America won by 134 runs",
+        "stat": "United States of America won by 134 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31755",
+    "year": 2021,
+    "venue": "Civil Service Cricket Club, Belfast",
+    "winner": "Zimbabwe",
+    "margin": "No Result",
+    "winOutcome": "runs",
+    "tossWinner": "Zimbabwe",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 282,
+      "wickets": 8,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 282,
+        "wickets": 8,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.64,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "No Result",
+        "stat": "No Result",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32509",
+    "year": 2021,
+    "venue": "OC Turf 1, Al Amarat",
+    "winner": "Unknown",
+    "margin": "Nepal won by 151 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Nepal",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 233,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 82,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 233,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.7,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 82,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.27,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Nepal won by 151 runs",
+        "stat": "Nepal won by 151 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "31756",
+    "year": 2021,
+    "venue": "Civil Service Cricket Club, Belfast",
+    "winner": "Unknown",
+    "margin": "Ireland won by 7 wickets (DLS Method)",
+    "winOutcome": "runs",
+    "tossWinner": "Ireland",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 131,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 118,
+      "wickets": 3,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 131,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.85,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 118,
+        "wickets": 3,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.28,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Ireland win by 7 wickets (DLS Method)",
+        "stat": "Ireland won by 7 wickets (DLS Method)",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32494",
+    "year": 2021,
+    "venue": "Oman Cricket Academy Ground, Al Amerat",
+    "winner": "Unknown",
+    "margin": "Nepal won by 5 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "United States of America",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 230,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 231,
+      "wickets": 5,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 230,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.6,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 231,
+        "wickets": 5,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.71,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Nepal won by 5 wickets",
+        "stat": "Nepal won by 5 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32495",
+    "year": 2021,
+    "venue": "Oman Cricket Academy Ground, Al Amerat",
+    "winner": "Unknown",
+    "margin": "Oman won by 5 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Nepal",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 196,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 200,
+      "wickets": 5,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 196,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.11,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 200,
+        "wickets": 5,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.41,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Oman won by 5 wickets",
+        "stat": "Oman won by 5 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32496",
+    "year": 2021,
+    "venue": "Oman Cricket Academy Ground, Al Amerat",
+    "winner": "Unknown",
+    "margin": "Oman won by 4 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Oman",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 178,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 179,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 178,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.98,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 179,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.6,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Oman won by 4 wickets",
+        "stat": "Oman won by 4 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32284",
+    "year": 2021,
+    "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+    "winner": "",
+    "margin": "Match cancelled without a ball bowled",
+    "winOutcome": "runs",
+    "tossWinner": "",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match cancelled without a ball bowled",
+        "stat": "Match cancelled without a ball bowled",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32497",
+    "year": 2021,
+    "venue": "Oman Cricket Academy Ground, Al Amerat",
+    "winner": "Unknown",
+    "margin": "United States of America won by 6 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "United States of America",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 174,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 175,
+      "wickets": 4,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 174,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.62,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 175,
+        "wickets": 4,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.93,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "United States of America won by 6 wickets",
+        "stat": "United States of America won by 6 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32285",
+    "year": 2021,
+    "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+    "winner": "",
+    "margin": "Match cancelled without a ball bowled",
+    "winOutcome": "runs",
+    "tossWinner": "",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match cancelled without a ball bowled",
+        "stat": "Match cancelled without a ball bowled",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32498",
+    "year": 2021,
+    "venue": "Oman Cricket Academy Ground, Al Amerat",
+    "winner": "Unknown",
+    "margin": "Nepal won by 7 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Nepal",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 121,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 122,
+      "wickets": 3,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 121,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.25,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 122,
+        "wickets": 3,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.65,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Nepal won by 7 wickets",
+        "stat": "Nepal won by 7 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "33783",
+    "year": 2021,
+    "venue": "Oman Cricket Academy Ground, Al Amerat",
+    "winner": "Unknown",
+    "margin": "Oman won by 72 runs",
+    "winOutcome": "runs",
+    "tossWinner": "",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Oman win by 72 runs",
+        "stat": "Oman won by 72 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32499",
+    "year": 2021,
+    "venue": "Oman Cricket Academy Ground, Al Amerat",
+    "winner": "Unknown",
+    "margin": "Oman won by 72 runs",
+    "winOutcome": "runs",
+    "tossWinner": "United States of America",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 274,
+      "wickets": 7,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 202,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 274,
+        "wickets": 7,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.48,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 202,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.07,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Oman won by 72 runs",
+        "stat": "Oman won by 72 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32286",
+    "year": 2021,
+    "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+    "winner": "",
+    "margin": "Match cancelled without a ball bowled",
+    "winOutcome": "runs",
+    "tossWinner": "",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match cancelled without a ball bowled",
+        "stat": "Match cancelled without a ball bowled",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32500",
+    "year": 2021,
+    "venue": "Al Amerat Cricket Ground 2, Al Amerat",
+    "winner": "Unknown",
+    "margin": "Scotland won by 6 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Scotland",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 197,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 198,
+      "wickets": 4,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 197,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.13,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 198,
+        "wickets": 4,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.6,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Scotland won by 6 wickets",
+        "stat": "Scotland won by 6 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32501",
+    "year": 2021,
+    "venue": "Al Amerat Cricket Ground 2, Al Amerat",
+    "winner": "Unknown",
+    "margin": "Oman won by 110 runs",
+    "winOutcome": "runs",
+    "tossWinner": "",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 250,
+      "wickets": 7,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 140,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 250,
+        "wickets": 7,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 140,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.3,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Oman won by 110 runs",
+        "stat": "Oman won by 110 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32502",
+    "year": 2021,
+    "venue": "Al Amerat Cricket Ground 2, Al Amerat",
+    "winner": "Unknown",
+    "margin": "Scotland won by 18 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Scotland",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 273,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 255,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 273,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.46,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 255,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.1,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Scotland won by 18 runs",
+        "stat": "Scotland won by 18 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32503",
+    "year": 2021,
+    "venue": "Oman Cricket Academy Ground, Al Amerat",
+    "winner": "Unknown",
+    "margin": "Scotland won by 4 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Papua New Guinea",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 226,
+      "wickets": 8,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 228,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 226,
+        "wickets": 8,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.52,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 228,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.66,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Scotland won by 4 wickets",
+        "stat": "Scotland won by 4 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32504",
+    "year": 2021,
+    "venue": "Oman Cricket Academy Ground, Al Amerat",
+    "winner": "Unknown",
+    "margin": "Oman won by 3 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Papua New Guinea",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 150,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 151,
+      "wickets": 7,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 150,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.46,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 151,
+        "wickets": 7,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.21,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Oman won by 3 wickets",
+        "stat": "Oman won by 3 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "32505",
+    "year": 2021,
+    "venue": "Oman Cricket Academy Ground, Al Amerat",
+    "winner": "",
+    "margin": "No Result",
+    "winOutcome": "runs",
+    "tossWinner": "",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "No Result",
+        "stat": "No Result",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "100362",
+    "year": 2021,
+    "venue": "Wanderers Cricket Ground, Windhoek",
+    "winner": "Namibia",
+    "margin": "Namibia won by 40 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Oman",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Oman",
+      "short": "Oman",
+      "color": "#004BA0",
+      "runs": 228,
+      "wickets": 10,
+      "overs": "50.0"
+    },
+    "team2": {
+      "name": "Namibia",
+      "short": "Namibia",
+      "color": "#004BA0",
+      "runs": 188,
+      "wickets": 10,
+      "overs": "46.8"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Namibia",
+        "bowlingTeam": "Oman",
+        "runs": 228,
+        "wickets": 10,
+        "balls": 300,
+        "overs": "50.0",
+        "runRate": 4.56,
+        "topBatters": [
+          {
+            "name": "JJ Smit",
+            "runs": 56,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 4,
+            "strikeRate": 560
+          },
+          {
+            "name": "Michael van Lingen",
+            "runs": 51,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 2,
+            "strikeRate": 510
+          },
+          {
+            "name": "Craig Williams",
+            "runs": 37,
+            "balls": 6,
+            "fours": 5,
+            "sixes": 0,
+            "strikeRate": 617
+          },
+          {
+            "name": "Zane Green",
+            "runs": 29,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "strikeRate": 414
+          },
+          {
+            "name": "Ruben Trumpelmann",
+            "runs": 22,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 0,
+            "strikeRate": 275
+          },
+          {
+            "name": "Stephan Baard",
+            "runs": 16,
+            "balls": 4,
+            "fours": 2,
+            "sixes": 0,
+            "strikeRate": 400
+          }
+        ],
+        "topBowlers": [
+          {
+            "name": "Ayan Khan",
+            "runs": 1,
+            "balls": 6,
+            "wickets": 0,
+            "economy": 1
+          },
+          {
+            "name": "Kaleemullah",
+            "runs": 2,
+            "balls": 5,
+            "wickets": 0,
+            "economy": 2.4
+          },
+          {
+            "name": "Aqib Ilyas",
+            "runs": 2,
+            "balls": 4,
+            "wickets": 0,
+            "economy": 3
+          },
+          {
+            "name": "Mohammad Nadeem",
+            "runs": 4,
+            "balls": 7,
+            "wickets": 0,
+            "economy": 3.43
+          },
+          {
+            "name": "Bilal Khan",
+            "runs": 6,
+            "balls": 10,
+            "wickets": 0,
+            "economy": 3.6
+          },
+          {
+            "name": "Zeeshan Maqsood",
+            "runs": 7,
+            "balls": 10,
+            "wickets": 0,
+            "economy": 4.2
+          }
+        ],
+        "fours": 13,
+        "sixes": 6,
+        "dotBalls": 30,
+        "dotBallPct": 10,
+        "boundaryPct": 6,
+        "powerplay": {
+          "runs": 4,
+          "balls": 10,
+          "runRate": 2.4,
+          "dotPct": 70
+        },
+        "middle": {
+          "runs": 21,
+          "balls": 29,
+          "runRate": 4.34,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 6,
+          "balls": 11,
+          "runRate": 3.27,
+          "dotPct": 45
+        }
+      },
+      {
+        "battingTeam": "Oman",
+        "bowlingTeam": "Namibia",
+        "runs": 188,
+        "wickets": 10,
+        "balls": 281,
+        "overs": "46.8",
+        "runRate": 4.01,
+        "topBatters": [
+          {
+            "name": "Zeeshan Maqsood",
+            "runs": 58,
+            "balls": 16,
+            "fours": 5,
+            "sixes": 0,
+            "strikeRate": 363
+          },
+          {
+            "name": "Sandeep Goud",
+            "runs": 50,
+            "balls": 12,
+            "fours": 3,
+            "sixes": 2,
+            "strikeRate": 417
+          },
+          {
+            "name": "Aqib Ilyas",
+            "runs": 25,
+            "balls": 5,
+            "fours": 4,
+            "sixes": 0,
+            "strikeRate": 500
+          },
+          {
+            "name": "Kashyap Prajapati",
+            "runs": 21,
+            "balls": 10,
+            "fours": 3,
+            "sixes": 0,
+            "strikeRate": 210
+          },
+          {
+            "name": "Ayan Khan",
+            "runs": 9,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "strikeRate": 225
+          },
+          {
+            "name": "Jatinder Singh",
+            "runs": 6,
+            "balls": 1,
+            "fours": 1,
+            "sixes": 0,
+            "strikeRate": 600
+          }
+        ],
+        "topBowlers": [
+          {
+            "name": "Michael van Lingen",
+            "runs": 1,
+            "balls": 2,
+            "wickets": 0,
+            "economy": 3
+          },
+          {
+            "name": "Karl Birkenstock",
+            "runs": 1,
+            "balls": 2,
+            "wickets": 0,
+            "economy": 3
+          },
+          {
+            "name": "Jan Frylinck",
+            "runs": 6,
+            "balls": 10,
+            "wickets": 0,
+            "economy": 3.6
+          },
+          {
+            "name": "JJ Smit",
+            "runs": 6,
+            "balls": 9,
+            "wickets": 0,
+            "economy": 4
+          },
+          {
+            "name": "Ruben Trumpelmann",
+            "runs": 7,
+            "balls": 10,
+            "wickets": 0,
+            "economy": 4.2
+          },
+          {
+            "name": "Bernard Scholtz",
+            "runs": 7,
+            "balls": 10,
+            "wickets": 0,
+            "economy": 4.2
+          }
+        ],
+        "fours": 17,
+        "sixes": 2,
+        "dotBalls": 30,
+        "dotBallPct": 11,
+        "boundaryPct": 7,
+        "powerplay": {
+          "runs": 4,
+          "balls": 11,
+          "runRate": 2.18,
+          "dotPct": 91
+        },
+        "middle": {
+          "runs": 18,
+          "balls": 30,
+          "runRate": 3.6,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 12,
+          "balls": 8,
+          "runRate": 9,
+          "dotPct": 25
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Namibia won by 40 runs",
+        "stat": "Namibia won by 40 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "33707",
+    "year": 2021,
+    "venue": "Supersport Park, Centurion",
+    "winner": "Netherlands",
+    "margin": "",
+    "winOutcome": "runs",
+    "tossWinner": "Netherlands",
+    "tossDecision": "field",
+    "team1": {
+      "name": "South Africa",
+      "short": "South Africa",
+      "color": "#004BA0",
+      "runs": 277,
+      "wickets": 8,
+      "overs": "50.0"
+    },
+    "team2": {
+      "name": "Netherlands",
+      "short": "Netherlands",
+      "color": "#004BA0",
+      "runs": 11,
+      "wickets": 0,
+      "overs": "2.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "South Africa",
+        "bowlingTeam": "Netherlands",
+        "runs": 277,
+        "wickets": 8,
+        "balls": 300,
+        "overs": "50.0",
+        "runRate": 5.54,
+        "topBatters": [
+          {
+            "name": "Kyle Verreynne",
+            "runs": 93,
+            "balls": 16,
+            "fours": 9,
+            "sixes": 1,
+            "strikeRate": 581
+          },
+          {
+            "name": "Zubayr Hamza",
+            "runs": 56,
+            "balls": 15,
+            "fours": 5,
+            "sixes": 1,
+            "strikeRate": 373
+          },
+          {
+            "name": "Andile Phehlukwayo",
+            "runs": 48,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 6,
+            "strikeRate": 960
+          },
+          {
+            "name": "Keshav Maharaj",
+            "runs": 18,
+            "balls": 2,
+            "fours": 3,
+            "sixes": 0,
+            "strikeRate": 900
+          },
+          {
+            "name": "Janneman Malan",
+            "runs": 16,
+            "balls": 6,
+            "fours": 3,
+            "sixes": 0,
+            "strikeRate": 267
+          },
+          {
+            "name": "David Miller",
+            "runs": 12,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 1,
+            "strikeRate": 600
+          }
+        ],
+        "topBowlers": [
+          {
+            "name": "Colin Ackermann",
+            "runs": 1,
+            "balls": 4,
+            "wickets": 0,
+            "economy": 1.5
+          },
+          {
+            "name": "Fred Klaassen",
+            "runs": 6,
+            "balls": 9,
+            "wickets": 0,
+            "economy": 4
+          },
+          {
+            "name": "Roelof van der Merwe",
+            "runs": 4,
+            "balls": 5,
+            "wickets": 0,
+            "economy": 4.8
+          },
+          {
+            "name": "Pieter Seelaar",
+            "runs": 5,
+            "balls": 6,
+            "wickets": 0,
+            "economy": 5
+          },
+          {
+            "name": "Vivian Kingma",
+            "runs": 8,
+            "balls": 9,
+            "wickets": 0,
+            "economy": 5.33
+          },
+          {
+            "name": "Timm van der Gugten",
+            "runs": 7,
+            "balls": 7,
+            "wickets": 0,
+            "economy": 6
+          }
+        ],
+        "fours": 22,
+        "sixes": 9,
+        "dotBalls": 29,
+        "dotBallPct": 10,
+        "boundaryPct": 10,
+        "powerplay": {
+          "runs": 9,
+          "balls": 11,
+          "runRate": 4.91,
+          "dotPct": 73
+        },
+        "middle": {
+          "runs": 25,
+          "balls": 29,
+          "runRate": 5.17,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 11,
+          "balls": 12,
+          "runRate": 5.5,
+          "dotPct": 50
+        }
+      },
+      {
+        "battingTeam": "Netherlands",
+        "bowlingTeam": "South Africa",
+        "runs": 11,
+        "wickets": 0,
+        "balls": 12,
+        "overs": "2.0",
+        "runRate": 5.5,
+        "topBatters": [
+          {
+            "name": "Max O'Dowd",
+            "runs": 9,
+            "balls": 1,
+            "fours": 2,
+            "sixes": 0,
+            "strikeRate": 900
+          },
+          {
+            "name": "Stephan Myburgh",
+            "runs": 2,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "strikeRate": 200
+          }
+        ],
+        "topBowlers": [
+          {
+            "name": "Keshav Maharaj",
+            "runs": 0,
+            "balls": 1,
+            "wickets": 0,
+            "economy": 0
+          },
+          {
+            "name": "Wayne Parnell",
+            "runs": 1,
+            "balls": 1,
+            "wickets": 0,
+            "economy": 6
+          }
+        ],
+        "fours": 2,
+        "sixes": 0,
+        "dotBalls": 1,
+        "dotBallPct": 8,
+        "boundaryPct": 17,
+        "powerplay": {
+          "runs": 1,
+          "balls": 2,
+          "runRate": 3,
+          "dotPct": 50
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match Abandoned",
+        "stat": "",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "100361",
+    "year": 2021,
+    "venue": "Wanderers Cricket Ground, Windhoek",
+    "winner": "Oman",
+    "margin": "Oman won by 9 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Oman",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Oman",
+      "short": "Oman",
+      "color": "#004BA0",
+      "runs": 291,
+      "wickets": 9,
+      "overs": "50.0"
+    },
+    "team2": {
+      "name": "Namibia",
+      "short": "Namibia",
+      "color": "#004BA0",
+      "runs": 282,
+      "wickets": 9,
+      "overs": "50.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Oman",
+        "bowlingTeam": "Namibia",
+        "runs": 291,
+        "wickets": 9,
+        "balls": 300,
+        "overs": "50.0",
+        "runRate": 5.82,
+        "topBatters": [
+          {
+            "name": "Ayan Khan",
+            "runs": 83,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 2,
+            "strikeRate": 553
+          },
+          {
+            "name": "Kashyap Prajapati",
+            "runs": 52,
+            "balls": 18,
+            "fours": 4,
+            "sixes": 1,
+            "strikeRate": 289
+          },
+          {
+            "name": "Aqib Ilyas",
+            "runs": 43,
+            "balls": 3,
+            "fours": 4,
+            "sixes": 3,
+            "strikeRate": 1433
+          },
+          {
+            "name": "Mohammad Nadeem",
+            "runs": 24,
+            "balls": 2,
+            "fours": 3,
+            "sixes": 0,
+            "strikeRate": 1200
+          },
+          {
+            "name": "Zeeshan Maqsood",
+            "runs": 24,
+            "balls": 3,
+            "fours": 3,
+            "sixes": 1,
+            "strikeRate": 800
+          },
+          {
+            "name": "Sandeep Goud",
+            "runs": 24,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "strikeRate": 800
+          }
+        ],
+        "topBowlers": [
+          {
+            "name": "JJ Smit",
+            "runs": 4,
+            "balls": 10,
+            "wickets": 0,
+            "economy": 2.4
+          },
+          {
+            "name": "Pikky Ya France",
+            "runs": 3,
+            "balls": 7,
+            "wickets": 0,
+            "economy": 2.57
+          },
+          {
+            "name": "Michael van Lingen",
+            "runs": 3,
+            "balls": 4,
+            "wickets": 0,
+            "economy": 4.5
+          },
+          {
+            "name": "Jan Frylinck",
+            "runs": 8,
+            "balls": 9,
+            "wickets": 0,
+            "economy": 5.33
+          },
+          {
+            "name": "Ruben Trumpelmann",
+            "runs": 11,
+            "balls": 11,
+            "wickets": 0,
+            "economy": 6
+          },
+          {
+            "name": "Unknown",
+            "runs": 3,
+            "balls": 3,
+            "wickets": 0,
+            "economy": 6
+          }
+        ],
+        "fours": 21,
+        "sixes": 8,
+        "dotBalls": 26,
+        "dotBallPct": 9,
+        "boundaryPct": 10,
+        "powerplay": {
+          "runs": 10,
+          "balls": 11,
+          "runRate": 5.45,
+          "dotPct": 73
+        },
+        "middle": {
+          "runs": 23,
+          "balls": 29,
+          "runRate": 4.76,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 7,
+          "balls": 11,
+          "runRate": 3.82,
+          "dotPct": 64
+        }
+      },
+      {
+        "battingTeam": "Namibia",
+        "bowlingTeam": "Oman",
+        "runs": 282,
+        "wickets": 9,
+        "balls": 300,
+        "overs": "50.0",
+        "runRate": 5.64,
+        "topBatters": [
+          {
+            "name": "JJ Smit",
+            "runs": 94,
+            "balls": 13,
+            "fours": 5,
+            "sixes": 6,
+            "strikeRate": 723
+          },
+          {
+            "name": "Zane Green",
+            "runs": 47,
+            "balls": 10,
+            "fours": 5,
+            "sixes": 0,
+            "strikeRate": 470
+          },
+          {
+            "name": "Craig Williams",
+            "runs": 37,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 0,
+            "strikeRate": 370
+          },
+          {
+            "name": "Jan Frylinck",
+            "runs": 23,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 0,
+            "strikeRate": 460
+          },
+          {
+            "name": "Michael van Lingen",
+            "runs": 17,
+            "balls": 3,
+            "fours": 2,
+            "sixes": 1,
+            "strikeRate": 567
+          },
+          {
+            "name": "Unknown",
+            "runs": 17,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "strikeRate": 425
+          }
+        ],
+        "topBowlers": [
+          {
+            "name": "Khawar Ali",
+            "runs": 3,
+            "balls": 5,
+            "wickets": 0,
+            "economy": 3.6
+          },
+          {
+            "name": "Unknown",
+            "runs": 5,
+            "balls": 8,
+            "wickets": 0,
+            "economy": 3.75
+          },
+          {
+            "name": "Aqib Ilyas",
+            "runs": 3,
+            "balls": 4,
+            "wickets": 0,
+            "economy": 4.5
+          },
+          {
+            "name": "Ayan Khan",
+            "runs": 10,
+            "balls": 10,
+            "wickets": 0,
+            "economy": 6
+          },
+          {
+            "name": "Sandeep Goud",
+            "runs": 1,
+            "balls": 1,
+            "wickets": 0,
+            "economy": 6
+          },
+          {
+            "name": "Mohammad Nadeem",
+            "runs": 11,
+            "balls": 8,
+            "wickets": 0,
+            "economy": 8.25
+          }
+        ],
+        "fours": 18,
+        "sixes": 7,
+        "dotBalls": 21,
+        "dotBallPct": 7,
+        "boundaryPct": 8,
+        "powerplay": {
+          "runs": 18,
+          "balls": 10,
+          "runRate": 10.8,
+          "dotPct": 40
+        },
+        "middle": {
+          "runs": 23,
+          "balls": 31,
+          "runRate": 4.45,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 17,
+          "balls": 12,
+          "runRate": 8.5,
+          "dotPct": 42
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Oman won by 9 runs",
+        "stat": "Oman won by 9 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "100363",
+    "year": 2021,
+    "venue": "Wanderers Cricket Ground, Windhoek",
+    "winner": "",
+    "margin": "",
+    "winOutcome": "runs",
+    "tossWinner": "",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Oman",
+      "short": "Oman",
+      "color": "#004BA0",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "United Arab Emirates",
+      "short": "UAE",
+      "color": "#004BA0",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match Abandoned without a ball bowled",
+        "stat": "",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "100364",
+    "year": 2021,
+    "venue": "Wanderers Cricket Ground, Windhoek",
+    "winner": "",
+    "margin": "",
+    "winOutcome": "runs",
+    "tossWinner": "",
+    "tossDecision": "field",
+    "team1": {
+      "name": "United Arab Emirates",
+      "short": "UAE",
+      "color": "#004BA0",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Namibia",
+      "short": "Namibia",
+      "color": "#004BA0",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match Abandoned without a ball bowled",
+        "stat": "",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "100365",
+    "year": 2021,
+    "venue": "Wanderers Cricket Ground, Windhoek",
+    "winner": "",
+    "margin": "",
+    "winOutcome": "runs",
+    "tossWinner": "",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Oman",
+      "short": "Oman",
+      "color": "#004BA0",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "United Arab Emirates",
+      "short": "UAE",
+      "color": "#004BA0",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match Abandoned without a ball bowled",
+        "stat": "",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "100366",
+    "year": 2021,
+    "venue": "Wanderers Cricket Ground, Windhoek",
+    "winner": "",
+    "margin": "",
+    "winOutcome": "runs",
+    "tossWinner": "",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Namibia",
+      "short": "Namibia",
+      "color": "#004BA0",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Oman",
+      "short": "Oman",
+      "color": "#004BA0",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match Abandoned without a ball bowled",
+        "stat": "",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "100367",
+    "year": 2021,
+    "venue": "Wanderers Cricket Ground, Windhoek",
+    "winner": "",
+    "margin": "",
+    "winOutcome": "runs",
+    "tossWinner": "",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Namibia",
+      "short": "Namibia",
+      "color": "#004BA0",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "United Arab Emirates",
+      "short": "UAE",
+      "color": "#004BA0",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match Abandoned without a ball bowled",
+        "stat": "",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "100368",
+    "year": 2021,
+    "venue": "Wanderers Cricket Ground, Windhoek",
+    "winner": "",
+    "margin": "",
+    "winOutcome": "runs",
+    "tossWinner": "",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Oman",
+      "short": "Oman",
+      "color": "#004BA0",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "United Arab Emirates",
+      "short": "UAE",
+      "color": "#004BA0",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match Abandoned without a ball bowled",
+        "stat": "",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "34323",
+    "year": 2021,
+    "venue": "Central Broward Regional Park Stadium Turf Ground, Lauderhill",
+    "winner": "",
+    "margin": "Match Abandoned without a ball bowled",
+    "winOutcome": "runs",
+    "tossWinner": "",
+    "tossDecision": "field",
+    "team1": {
+      "name": "United States of America",
+      "short": "USA",
+      "color": "#004BA0",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Ireland",
+      "short": "Ireland",
+      "color": "#004BA0",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match Abandoned without a ball bowled",
+        "stat": "Match Abandoned without a ball bowled",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "34324",
+    "year": 2021,
+    "venue": "Central Broward Regional Park Stadium Turf Ground, Lauderhill",
+    "winner": "",
+    "margin": "Match Abandoned without a ball bowled",
+    "winOutcome": "runs",
+    "tossWinner": "",
+    "tossDecision": "field",
+    "team1": {
+      "name": "United States of America",
+      "short": "USA",
+      "color": "#004BA0",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Ireland",
+      "short": "Ireland",
+      "color": "#004BA0",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match Abandoned without a ball bowled",
+        "stat": "Match Abandoned without a ball bowled",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  }
+]

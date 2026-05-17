@@ -1,0 +1,5211 @@
+[
+  {
+    "id": "3176",
+    "year": 2011,
+    "venue": "Sher-e-Bangla National Cricket Stadium, Mirpur",
+    "winner": "Unknown",
+    "margin": "India won by 87 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Bangladesh",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 370,
+      "wickets": 4,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 283,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 370,
+        "wickets": 4,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 7.4,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 283,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.66,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 1",
+        "stat": "India won by 87 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3177",
+    "year": 2011,
+    "venue": "Mahinda Rajapaksa International Cricket Stadium, Hambantota",
+    "winner": "Unknown",
+    "margin": "Sri Lanka won by 210 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Sri Lanka",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 332,
+      "wickets": 7,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 122,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 332,
+        "wickets": 7,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.64,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 122,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.31,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 2",
+        "stat": "Sri Lanka won by 210 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3178",
+    "year": 2011,
+    "venue": "M. A. Chidambaram Stadium, Chennai",
+    "winner": "Unknown",
+    "margin": "New Zealand won by 10 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Kenya",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 69,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 72,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 69,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 2.89,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 72,
+        "wickets": 0,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 9,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 3",
+        "stat": "New Zealand won by 10 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3179",
+    "year": 2011,
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "winner": "Unknown",
+    "margin": "Australia won by 91 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 262,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 171,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 262,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.24,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 171,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.69,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 4",
+        "stat": "Australia won by 91 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3180",
+    "year": 2011,
+    "venue": "Vidarbha Cricket Association Stadium, Nagpur",
+    "winner": "Unknown",
+    "margin": "England won by 6 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Netherlands",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 292,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 296,
+      "wickets": 4,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 292,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.84,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 296,
+        "wickets": 4,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.08,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 5",
+        "stat": "England won by 6 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3181",
+    "year": 2011,
+    "venue": "Mahinda Rajapaksa International Cricket Stadium, Hambantota",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 205 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Pakistan",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 317,
+      "wickets": 7,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 112,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 317,
+        "wickets": 7,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.34,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 112,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.37,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Pakistan won by 205 runs",
+        "stat": "Pakistan won by 205 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3182",
+    "year": 2011,
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "winner": "Unknown",
+    "margin": "South Africa won by 7 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "South Africa",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 222,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 223,
+      "wickets": 3,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 222,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.67,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 223,
+        "wickets": 3,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.2,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 7",
+        "stat": "South Africa won by 7 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3183",
+    "year": 2011,
+    "venue": "Sher-e-Bangla National Cricket Stadium, Mirpur",
+    "winner": "Unknown",
+    "margin": "Bangladesh won by 27 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Bangladesh",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 205,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 178,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 205,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.15,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 178,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.95,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 8",
+        "stat": "Bangladesh won by 27 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3184",
+    "year": 2011,
+    "venue": "Vidarbha Cricket Association Stadium, Nagpur",
+    "winner": "Unknown",
+    "margin": "Australia won by 7 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 206,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 207,
+      "wickets": 3,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 206,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.56,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 207,
+        "wickets": 3,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.08,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 9",
+        "stat": "Australia won by 7 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3185",
+    "year": 2011,
+    "venue": "R Premadasa Stadium, Colombo",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 11 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Pakistan",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 277,
+      "wickets": 7,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 266,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 277,
+        "wickets": 7,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.54,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 266,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.32,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Pakistan won by 11 runs",
+        "stat": "Pakistan won by 11 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3186",
+    "year": 2011,
+    "venue": "M. Chinnaswamy Stadium, Bengaluru",
+    "winner": "India",
+    "margin": "Match tied",
+    "winOutcome": "runs",
+    "tossWinner": "India",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 338,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 338,
+      "wickets": 8,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 338,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.78,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 338,
+        "wickets": 8,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.76,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match tied",
+        "stat": "Match tied",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3187",
+    "year": 2011,
+    "venue": "Vidarbha Cricket Association Stadium, Nagpur",
+    "winner": "Unknown",
+    "margin": "Zimbabwe won by 175 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Zimbabwe",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 298,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 123,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 298,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.96,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 123,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 2.91,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 12",
+        "stat": "Zimbabwe won by 175 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3188",
+    "year": 2011,
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "winner": "Unknown",
+    "margin": "West Indies won by 215 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Netherlands",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 330,
+      "wickets": 8,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 115,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 330,
+        "wickets": 8,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.6,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 115,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.65,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 13",
+        "stat": "West Indies won by 215 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3189",
+    "year": 2011,
+    "venue": "R Premadasa Stadium, Colombo",
+    "winner": "Unknown",
+    "margin": "Sri Lanka won by 9 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Kenya",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 142,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 146,
+      "wickets": 1,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 142,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.25,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 146,
+        "wickets": 1,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 7.82,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 14",
+        "stat": "Sri Lanka won by 9 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3190",
+    "year": 2011,
+    "venue": "M. Chinnaswamy Stadium, Bengaluru",
+    "winner": "Unknown",
+    "margin": "Ireland won by 3 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 327,
+      "wickets": 8,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 329,
+      "wickets": 7,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 327,
+        "wickets": 8,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.54,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 329,
+        "wickets": 7,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.69,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 15",
+        "stat": "Ireland won by 3 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3191",
+    "year": 2011,
+    "venue": "R Premadasa Stadium, Colombo",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 46 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Pakistan",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 184,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 138,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 184,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.27,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 138,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.22,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 16",
+        "stat": "Pakistan won by 46 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3192",
+    "year": 2011,
+    "venue": "IS Bindra Stadium, Mohali",
+    "winner": "Unknown",
+    "margin": "South Africa won by 231 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Netherlands",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 351,
+      "wickets": 5,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 120,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 351,
+        "wickets": 5,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 7.02,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 120,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.44,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 17",
+        "stat": "South Africa won by 231 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3193",
+    "year": 2011,
+    "venue": "Sher-e-Bangla National Cricket Stadium, Mirpur",
+    "winner": "Unknown",
+    "margin": "West Indies won by 9 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Bangladesh",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 58,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 59,
+      "wickets": 1,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 58,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.07,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 59,
+        "wickets": 1,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.78,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 18",
+        "stat": "West Indies won by 9 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3194",
+    "year": 2011,
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "winner": "Unknown",
+    "margin": "New Zealand won by 10 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Zimbabwe",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 162,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 166,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 162,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.49,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 166,
+        "wickets": 0,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.95,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 19",
+        "stat": "New Zealand won by 10 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3195",
+    "year": 2011,
+    "venue": "R Premadasa Stadium, Colombo",
+    "winner": "Sri Lanka",
+    "margin": "No result",
+    "winOutcome": "runs",
+    "tossWinner": "Sri Lanka",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 146,
+      "wickets": 3,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 146,
+        "wickets": 3,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.44,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "No result",
+        "stat": "No result",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3196",
+    "year": 2011,
+    "venue": "M. A. Chidambaram Stadium, Chennai",
+    "winner": "Unknown",
+    "margin": "England won by 6 runs",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 171,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 165,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 171,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.74,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 165,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.46,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 21",
+        "stat": "England won by 6 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3197",
+    "year": 2011,
+    "venue": "M. Chinnaswamy Stadium, Bengaluru",
+    "winner": "Unknown",
+    "margin": "India won by 5 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "India",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 207,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 210,
+      "wickets": 5,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 207,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.32,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 210,
+        "wickets": 5,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.56,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 22",
+        "stat": "India won by 5 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3198",
+    "year": 2011,
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "winner": "Unknown",
+    "margin": "Canada won by 5 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Kenya",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 198,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 199,
+      "wickets": 5,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 198,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.96,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 199,
+        "wickets": 5,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.37,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 23",
+        "stat": "Canada won by 5 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3199",
+    "year": 2011,
+    "venue": "Pallekele International Cricket Stadium, Pallekele",
+    "winner": "Unknown",
+    "margin": "New Zealand won by 110 runs",
+    "winOutcome": "runs",
+    "tossWinner": "New Zealand",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 302,
+      "wickets": 7,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 192,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 302,
+        "wickets": 7,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.04,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 192,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.6,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 24",
+        "stat": "New Zealand won by 110 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3200",
+    "year": 2011,
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "winner": "Unknown",
+    "margin": "India won by 5 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Netherlands",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 189,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 191,
+      "wickets": 5,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 189,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.05,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 191,
+        "wickets": 5,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.23,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 25",
+        "stat": "India won by 5 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3201",
+    "year": 2011,
+    "venue": "Pallekele International Cricket Stadium, Pallekele",
+    "winner": "Unknown",
+    "margin": "Sri Lanka won by 139 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Zimbabwe",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 327,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 188,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 327,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.54,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 188,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.82,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 26",
+        "stat": "Sri Lanka won by 139 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3202",
+    "year": 2011,
+    "venue": "Chittagong Divisional Stadium, Chittagong",
+    "winner": "Unknown",
+    "margin": "Bangladesh won by 2 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Bangladesh",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 225,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 227,
+      "wickets": 8,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 225,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.53,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 227,
+        "wickets": 8,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.63,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 27",
+        "stat": "Bangladesh won by 2 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3203",
+    "year": 2011,
+    "venue": "IS Bindra Stadium, Mohali",
+    "winner": "Unknown",
+    "margin": "West Indies won by 44 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Ireland",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 275,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 231,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 275,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.5,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 231,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.71,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 28",
+        "stat": "West Indies won by 44 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3204",
+    "year": 2011,
+    "venue": "Vidarbha Cricket Association Stadium, Nagpur",
+    "winner": "Unknown",
+    "margin": "South Africa won by 3 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "India",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 296,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 300,
+      "wickets": 7,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 296,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.08,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 300,
+        "wickets": 7,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.04,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 29",
+        "stat": "South Africa won by 3 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3205",
+    "year": 2011,
+    "venue": "M. Chinnaswamy Stadium, Bengaluru",
+    "winner": "Unknown",
+    "margin": "Australia won by 60 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 324,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 264,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 324,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.48,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 264,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.28,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 30",
+        "stat": "Australia won by 60 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3206",
+    "year": 2011,
+    "venue": "Wankhede Stadium, Mumbai",
+    "winner": "Unknown",
+    "margin": "New Zealand won by 97 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Canada",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 358,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 261,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 358,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 7.16,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 261,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.22,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 31",
+        "stat": "New Zealand won by 97 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3207",
+    "year": 2011,
+    "venue": "Chittagong Divisional Stadium, Chittagong",
+    "winner": "Unknown",
+    "margin": "Bangladesh won by 6 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Netherlands",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 160,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 166,
+      "wickets": 4,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 160,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.45,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 166,
+        "wickets": 4,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.01,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 32",
+        "stat": "Bangladesh won by 6 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3208",
+    "year": 2011,
+    "venue": "Pallekele International Cricket Stadium, Pallekele",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 7 wickets (D/L method)",
+    "winOutcome": "runs",
+    "tossWinner": "Zimbabwe",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 151,
+      "wickets": 7,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 164,
+      "wickets": 3,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 151,
+        "wickets": 7,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.8,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 164,
+        "wickets": 3,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.8,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Pakistan won by 7 wickets (D/L method)",
+        "stat": "Pakistan won by 7 wickets (D/L method)",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3209",
+    "year": 2011,
+    "venue": "Eden Gardens, Kolkata",
+    "winner": "Unknown",
+    "margin": "South Africa won by 131 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Ireland",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 272,
+      "wickets": 7,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 141,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 272,
+        "wickets": 7,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.44,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 141,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.23,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 34",
+        "stat": "South Africa won by 131 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3210",
+    "year": 2011,
+    "venue": "M. Chinnaswamy Stadium, Bengaluru",
+    "winner": "Unknown",
+    "margin": "Australia won by 7 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Canada",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 211,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 212,
+      "wickets": 3,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 211,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.62,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 212,
+        "wickets": 3,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.08,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 35",
+        "stat": "Australia won by 7 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3211",
+    "year": 2011,
+    "venue": "M. A. Chidambaram Stadium, Chennai",
+    "winner": "Unknown",
+    "margin": "England won by 18 runs",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 243,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 225,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 243,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.99,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 225,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.03,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 36",
+        "stat": "England won by 18 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3212",
+    "year": 2011,
+    "venue": "Eden Gardens, Kolkata",
+    "winner": "Unknown",
+    "margin": "Ireland won by 6 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Ireland",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 306,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 307,
+      "wickets": 4,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 306,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.12,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 307,
+        "wickets": 4,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.44,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 37",
+        "stat": "Ireland won by 6 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3213",
+    "year": 2011,
+    "venue": "Wankhede Stadium, Mumbai",
+    "winner": "Unknown",
+    "margin": "Sri Lanka won by 112 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Sri Lanka",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 265,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 153,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 265,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.3,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 153,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.37,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 38",
+        "stat": "Sri Lanka won by 112 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3214",
+    "year": 2011,
+    "venue": "Sher-e-Bangla National Cricket Stadium, Mirpur",
+    "winner": "Unknown",
+    "margin": "South Africa won by 206 runs",
+    "winOutcome": "runs",
+    "tossWinner": "South Africa",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 284,
+      "wickets": 8,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 78,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 284,
+        "wickets": 8,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.68,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 78,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 2.78,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 39",
+        "stat": "South Africa won by 206 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3215",
+    "year": 2011,
+    "venue": "R Premadasa Stadium, Colombo",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 4 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 176,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 178,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 176,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.77,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 178,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.34,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 40",
+        "stat": "Pakistan won by 4 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3216",
+    "year": 2011,
+    "venue": "M. A. Chidambaram Stadium, Chennai",
+    "winner": "Unknown",
+    "margin": "India won by 80 runs",
+    "winOutcome": "runs",
+    "tossWinner": "India",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 268,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 188,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 268,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.45,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 188,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.37,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 41",
+        "stat": "India won by 80 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3217",
+    "year": 2011,
+    "venue": "Eden Gardens, Kolkata",
+    "winner": "Unknown",
+    "margin": "Zimbabwe won by 161 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Zimbabwe",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 308,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 147,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 308,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 6.16,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 147,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.08,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 42",
+        "stat": "Zimbabwe won by 161 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3218",
+    "year": 2011,
+    "venue": "Sher-e-Bangla National Cricket Stadium, Mirpur",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 10 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "West Indies",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 112,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 113,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 112,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 2.57,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 113,
+        "wickets": 0,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.42,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Quarter-Final",
+        "stat": "Pakistan won by 10 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3219",
+    "year": 2011,
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "winner": "Unknown",
+    "margin": "India won by 5 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 260,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 261,
+      "wickets": 5,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 260,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.2,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 261,
+        "wickets": 5,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.47,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Quarter-Final",
+        "stat": "India won by 5 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3220",
+    "year": 2011,
+    "venue": "Sher-e-Bangla National Cricket Stadium, Mirpur",
+    "winner": "Unknown",
+    "margin": "New Zealand won by 49 runs",
+    "winOutcome": "runs",
+    "tossWinner": "New Zealand",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 221,
+      "wickets": 8,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 172,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 221,
+        "wickets": 8,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.42,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 172,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 3.96,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Quarter-Final",
+        "stat": "New Zealand won by 49 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3221",
+    "year": 2011,
+    "venue": "R Premadasa Stadium, Colombo",
+    "winner": "Unknown",
+    "margin": "Sri Lanka won by 10 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 229,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 231,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 229,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.58,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 231,
+        "wickets": 0,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.84,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Quarter-Final",
+        "stat": "Sri Lanka won by 10 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3222",
+    "year": 2011,
+    "venue": "R Premadasa Stadium, Colombo",
+    "winner": "Unknown",
+    "margin": "Sri Lanka won by 5 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "New Zealand",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 217,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 220,
+      "wickets": 5,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 217,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.44,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 220,
+        "wickets": 5,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.59,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Semi-Final",
+        "stat": "Sri Lanka won by 5 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3223",
+    "year": 2011,
+    "venue": "IS Bindra Stadium, Mohali",
+    "winner": "Unknown",
+    "margin": "India won by 29 runs",
+    "winOutcome": "runs",
+    "tossWinner": "India",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 260,
+      "wickets": 9,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 231,
+      "wickets": 10,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 260,
+        "wickets": 9,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.2,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 231,
+        "wickets": 10,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 4.63,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Semi-Final",
+        "stat": "India won by 29 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "3224",
+    "year": 2011,
+    "venue": "Wankhede Stadium, Mumbai",
+    "winner": "Unknown",
+    "margin": "India won by 6 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Sri Lanka",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 274,
+      "wickets": 6,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 277,
+      "wickets": 4,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 274,
+        "wickets": 6,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.48,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      },
+      {
+        "battingTeam": "Unknown",
+        "bowlingTeam": "Unknown",
+        "runs": 277,
+        "wickets": 4,
+        "balls": 0,
+        "overs": "0.0",
+        "runRate": 5.73,
+        "topBatters": [],
+        "topBowlers": [],
+        "fours": 0,
+        "sixes": 0,
+        "dotBalls": 0,
+        "dotBallPct": 0,
+        "boundaryPct": 0,
+        "powerplay": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "middle": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        },
+        "death": {
+          "runs": 0,
+          "balls": 0,
+          "runRate": 0,
+          "dotPct": 0
+        }
+      }
+    ],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Final",
+        "stat": "India won by 6 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  }
+]

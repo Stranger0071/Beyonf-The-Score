@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "2919",
+    "year": 1987,
+    "venue": "Niaz Stadium, Hyderabad",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 15 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Pakistan",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 1",
+        "stat": "Pakistan won by 15 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2920",
+    "year": 1987,
+    "venue": "M. A. Chidambaram Stadium, Chennai",
+    "winner": "Unknown",
+    "margin": "Australia won by 1 run",
+    "winOutcome": "runs",
+    "tossWinner": "India",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 2",
+        "stat": "Australia won by 1 run",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2921",
+    "year": 1987,
+    "venue": "Jinnah Stadium, Gujranwala",
+    "winner": "Unknown",
+    "margin": "England won by 2 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 3",
+        "stat": "England won by 2 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2922",
+    "year": 1987,
+    "venue": "Lal Bahadur Shastri Stadium, Hyderabad",
+    "winner": "Unknown",
+    "margin": "New Zealand won by 3 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Zimbabwe",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 4",
+        "stat": "New Zealand won by 3 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2923",
+    "year": 1987,
+    "venue": "Pindi Club Ground, Rawalpindi",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 18 runs",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 5",
+        "stat": "Pakistan won by 18 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2924",
+    "year": 1987,
+    "venue": "M. A. Chidambaram Stadium, Chennai",
+    "winner": "Unknown",
+    "margin": "Australia won by 96 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Zimbabwe",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 6",
+        "stat": "Australia won by 96 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2925",
+    "year": 1987,
+    "venue": "National Stadium, Karachi",
+    "winner": "Unknown",
+    "margin": "West Indies won by 191 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Sri Lanka",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 7",
+        "stat": "West Indies won by 191 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2926",
+    "year": 1987,
+    "venue": "M. Chinnaswamy Stadium, Bengaluru",
+    "winner": "Unknown",
+    "margin": "India won by 16 runs",
+    "winOutcome": "runs",
+    "tossWinner": "New Zealand",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 8",
+        "stat": "India won by 16 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2927",
+    "year": 1987,
+    "venue": "Gaddafi Stadium, Lahore",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 1 wicket",
+    "winOutcome": "runs",
+    "tossWinner": "West Indies",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 9",
+        "stat": "Pakistan won by 1 wicket",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2928",
+    "year": 1987,
+    "venue": "Wankhede Stadium, Mumbai",
+    "winner": "Unknown",
+    "margin": "India won by 8 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Zimbabwe",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 10",
+        "stat": "India won by 8 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2929",
+    "year": 1987,
+    "venue": "Arbab Niaz Stadium, Peshawar",
+    "winner": "Unknown",
+    "margin": "England won by 138 runs",
+    "winOutcome": "runs",
+    "tossWinner": "England",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 11",
+        "stat": "England won by 138 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2930",
+    "year": 1987,
+    "venue": "Indore, Indore",
+    "winner": "Unknown",
+    "margin": "Australia won by 3 runs",
+    "winOutcome": "runs",
+    "tossWinner": "New Zealand",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 12",
+        "stat": "Australia won by 3 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2931",
+    "year": 1987,
+    "venue": "National Stadium, Karachi",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 7 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Pakistan",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 13",
+        "stat": "Pakistan won by 7 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2932",
+    "year": 1987,
+    "venue": "Modi Stadium, Kanpur",
+    "winner": "Unknown",
+    "margin": "West Indies won by 25 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Sri Lanka",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 14",
+        "stat": "West Indies won by 25 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2933",
+    "year": 1987,
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "winner": "Unknown",
+    "margin": "India won by 56 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 15",
+        "stat": "India won by 56 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2934",
+    "year": 1987,
+    "venue": "Eden Gardens, Kolkata",
+    "winner": "Unknown",
+    "margin": "New Zealand won by 4 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "New Zealand",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 16",
+        "stat": "New Zealand won by 4 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2935",
+    "year": 1987,
+    "venue": "Iqbal Stadium, Faisalabad",
+    "winner": "Unknown",
+    "margin": "Pakistan won by 113 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Pakistan",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 17",
+        "stat": "Pakistan won by 113 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2936",
+    "year": 1987,
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "winner": "Unknown",
+    "margin": "England won by 34 runs",
+    "winOutcome": "runs",
+    "tossWinner": "West Indies",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 18",
+        "stat": "England won by 34 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2937",
+    "year": 1987,
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "winner": "Unknown",
+    "margin": "India won by 7 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "India",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 19",
+        "stat": "India won by 7 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2938",
+    "year": 1987,
+    "venue": "Chandigarh, Chandigarh",
+    "winner": "Unknown",
+    "margin": "Australia won by 17 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 20",
+        "stat": "Australia won by 17 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2939",
+    "year": 1987,
+    "venue": "Barabati Stadium, Cuttack",
+    "winner": "Unknown",
+    "margin": "Australia won by 70 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Zimbabwe",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 21",
+        "stat": "Australia won by 70 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2940",
+    "year": 1987,
+    "venue": "Pune, Pune",
+    "winner": "Unknown",
+    "margin": "England won by 8 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "Sri Lanka",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 22",
+        "stat": "England won by 8 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2941",
+    "year": 1987,
+    "venue": "National Stadium, Karachi",
+    "winner": "Unknown",
+    "margin": "West Indies won by 28 runs",
+    "winOutcome": "runs",
+    "tossWinner": "West Indies",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 23",
+        "stat": "West Indies won by 28 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2942",
+    "year": 1987,
+    "venue": "Vidarbha Cricket Association Stadium, Nagpur",
+    "winner": "Unknown",
+    "margin": "India won by 9 wickets",
+    "winOutcome": "runs",
+    "tossWinner": "New Zealand",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Match 24",
+        "stat": "India won by 9 wickets",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2943",
+    "year": 1987,
+    "venue": "Gaddafi Stadium, Lahore",
+    "winner": "Unknown",
+    "margin": "Australia won by 18 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Semi-Final",
+        "stat": "Australia won by 18 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2944",
+    "year": 1987,
+    "venue": "Wankhede Stadium, Mumbai",
+    "winner": "Unknown",
+    "margin": "England won by 35 runs",
+    "winOutcome": "runs",
+    "tossWinner": "India",
+    "tossDecision": "field",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Semi-Final",
+        "stat": "England won by 35 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  },
+  {
+    "id": "2945",
+    "year": 1987,
+    "venue": "Eden Gardens, Kolkata",
+    "winner": "Unknown",
+    "margin": "Australia won by 7 runs",
+    "winOutcome": "runs",
+    "tossWinner": "Australia",
+    "tossDecision": "bat",
+    "team1": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "team2": {
+      "name": "Unknown",
+      "short": "UNK",
+      "color": "#475569",
+      "runs": 0,
+      "wickets": 0,
+      "overs": "0.0"
+    },
+    "playerOfMatch": "TBD",
+    "innings": [],
+    "insights": [
+      {
+        "type": "highlight",
+        "title": "WC Match",
+        "body": "Final",
+        "stat": "Australia won by 7 runs",
+        "sentiment": "positive"
+      }
+    ],
+    "keyMoments": []
+  }
+]
