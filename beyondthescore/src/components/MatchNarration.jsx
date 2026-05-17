@@ -10,6 +10,7 @@ export default function MatchNarration({ match }) {
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
   const [countdown, setCountdown] = useState(0)
+  const [pendingRetry, setPendingRetry] = useState(null)
 
   // Construct match context for the AI
   const matchContext = `
@@ -22,11 +23,14 @@ export default function MatchNarration({ match }) {
     Player of the Match: ${match.playerOfMatch}
   `
 
-  // Handle countdown timer
+  // Handle countdown timer — auto-retry when it reaches 0
   useEffect(() => {
     if (countdown <= 0) {
-      if (error && error.includes("Quota Limit Reached")) {
+      if (pendingRetry) {
         setError('')
+        const retryType = pendingRetry
+        setPendingRetry(null)
+        generateNarration(retryType)
       }
       return
     }
@@ -42,7 +46,7 @@ export default function MatchNarration({ match }) {
     setError('')
     try {
       const isComp = type === 'comprehensive'
-      const prompt = isComp 
+      const prompt = isComp
         ? `You are an expert cricket analyst and sports commentator. Write a highly detailed, comprehensive match report summarizing this match. 
            Please organize your report into the following sections with clear, bold headers and emojis:
            
@@ -84,7 +88,7 @@ export default function MatchNarration({ match }) {
       }
 
       const data = await response.json()
-      
+
       // Handle Quota/Rate Limit inside response JSON
       if (data.error?.code === 429 || data.error?.status === "RESOURCE_EXHAUSTED" || (data.error?.message && /quota|exhausted|429/i.test(data.error.message))) {
         setCountdown(60)
@@ -104,7 +108,8 @@ export default function MatchNarration({ match }) {
     } catch (err) {
       if (err.message === "Quota exceeded" || /quota|exhausted|429/i.test(err.message)) {
         setCountdown(60)
-        setError("Gemini API Quota Limit Reached! Please wait for the countdown to complete.")
+        setPendingRetry(type)
+        setError("Gemini API Quota Limit Reached! Auto-retrying when the countdown completes.")
       } else {
         setError(err.message || 'An error occurred while generating the summary.')
       }
@@ -118,10 +123,11 @@ export default function MatchNarration({ match }) {
     setNormalNarration('')
     setComprehensiveNarration('')
     setReportType('normal')
-    
-    // If we are currently rate-limited, block the request
+
+    // If we are currently rate-limited, queue the retry and block the request
     if (countdown > 0) {
-      setError("Gemini API Quota Limit Reached! Please wait for the countdown to complete.")
+      setPendingRetry('normal')
+      setError("Gemini API Quota Limit Reached! Auto-retrying when the countdown completes.")
       return
     }
 
@@ -157,7 +163,7 @@ export default function MatchNarration({ match }) {
 
       <div className="overflow-hidden rounded-[2.5rem] border border-white/5 bg-slate-900/40 p-8 sm:p-10 shadow-2xl backdrop-blur-xl">
         <div className="space-y-6">
-          
+
           {/* Header & Tabs */}
           <div className="flex flex-col sm:flex-row justify-between sm:items-center gap-4 mb-6 border-b border-white/5 pb-6">
             <div>
@@ -168,28 +174,26 @@ export default function MatchNarration({ match }) {
                 {match.team1.short} vs {match.team2.short}
               </h3>
             </div>
-            
+
             {/* Toggle Pills */}
             <div className="flex p-1 rounded-xl bg-white/5 border border-white/5 w-fit shrink-0">
               <button
                 onClick={() => handleTypeChange('normal')}
                 disabled={loading || countdown > 0}
-                className={`px-4 py-2 text-xs font-black uppercase tracking-wider rounded-lg transition-all duration-300 ${
-                  reportType === 'normal'
+                className={`px-4 py-2 text-xs font-black uppercase tracking-wider rounded-lg transition-all duration-300 ${reportType === 'normal'
                     ? 'bg-emerald-500 text-[#05070a] shadow-lg shadow-emerald-500/20'
                     : 'text-slate-400 hover:text-slate-200'
-                } ${(loading || countdown > 0) ? 'opacity-40 cursor-not-allowed' : 'hover:scale-[1.02] active:scale-[0.98]'}`}
+                  } ${(loading || countdown > 0) ? 'opacity-40 cursor-not-allowed' : 'hover:scale-[1.02] active:scale-[0.98]'}`}
               >
                 Quick Summary
               </button>
               <button
                 onClick={() => handleTypeChange('comprehensive')}
                 disabled={loading || countdown > 0}
-                className={`px-4 py-2 text-xs font-black uppercase tracking-wider rounded-lg transition-all duration-300 ${
-                  reportType === 'comprehensive'
+                className={`px-4 py-2 text-xs font-black uppercase tracking-wider rounded-lg transition-all duration-300 ${reportType === 'comprehensive'
                     ? 'bg-emerald-500 text-[#05070a] shadow-lg shadow-emerald-500/20'
                     : 'text-slate-400 hover:text-slate-200'
-                } ${(loading || countdown > 0) ? 'opacity-40 cursor-not-allowed' : 'hover:scale-[1.02] active:scale-[0.98]'}`}
+                  } ${(loading || countdown > 0) ? 'opacity-40 cursor-not-allowed' : 'hover:scale-[1.02] active:scale-[0.98]'}`}
               >
                 Comprehensive Report
               </button>
@@ -214,12 +218,12 @@ export default function MatchNarration({ match }) {
                   The Google AI Studio free-tier rate limit has been temporarily reached.
                 </p>
                 <p className="mt-1 text-xs text-slate-400 font-medium">
-                  Please hold on for <span className="font-extrabold text-emerald-400 text-sm px-1 bg-emerald-500/10 rounded border border-emerald-500/10">{countdown}s</span> before requesting a new AI narration.
+                  Auto-retrying in <span className="font-extrabold text-emerald-400 text-sm px-1 bg-emerald-500/10 rounded border border-emerald-500/10">{countdown}s</span> — sit tight!
                 </p>
               </div>
               <div className="w-full bg-white/5 rounded-full h-1.5 overflow-hidden max-w-xs mt-2 ring-1 ring-white/10">
-                <div 
-                  className="bg-gradient-to-r from-emerald-500 to-emerald-400 h-full transition-all duration-1000 ease-linear" 
+                <div
+                  className="bg-gradient-to-r from-emerald-500 to-emerald-400 h-full transition-all duration-1000 ease-linear"
                   style={{ width: `${(countdown / 60) * 100}%` }}
                 />
               </div>
