@@ -189,8 +189,22 @@ export default function MatchNarration({ match }) {
           ) : currentContent ? (
             <div className="relative">
               <span className="absolute -left-4 -top-4 text-6xl text-white/5 font-serif">"</span>
-              <div className="text-slate-300 font-medium relative z-10 whitespace-pre-line leading-relaxed text-sm sm:text-base space-y-4">
-                {currentContent}
+              <div className="text-slate-300 font-medium relative z-10 space-y-6 leading-relaxed text-sm sm:text-base">
+                {currentContent.split('\n\n').filter(p => p.trim() !== '').map((paragraph, idx) => {
+                  const isHeader = /^[🏟️🏏🎯🌟🔥🏆👑📢]/.test(paragraph.trim())
+                  if (isHeader) {
+                    return (
+                      <h4 key={idx} className="text-base sm:text-lg font-black tracking-tight text-white border-b border-white/5 pb-2 pt-4 first:pt-0">
+                        {paragraph}
+                      </h4>
+                    )
+                  }
+                  return (
+                    <p key={idx} className="whitespace-pre-line">
+                      {paragraph}
+                    </p>
+                  )
+                })}
               </div>
               <span className="absolute -bottom-8 right-0 text-6xl text-white/5 font-serif rotate-180">"</span>
             </div>
