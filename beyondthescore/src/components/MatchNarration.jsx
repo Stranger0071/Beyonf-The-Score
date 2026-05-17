@@ -11,6 +11,17 @@ export default function MatchNarration({ match }) {
   const [error, setError] = useState('')
   const [countdown, setCountdown] = useState(0)
   const [pendingRetry, setPendingRetry] = useState(null)
+  const [prevMatchId, setPrevMatchId] = useState(match.id)
+
+  // Immediately clear stale content during render when match changes (before paint)
+  if (match.id !== prevMatchId) {
+    setPrevMatchId(match.id)
+    setNormalNarration('')
+    setComprehensiveNarration('')
+    setReportType('normal')
+    setLoading(true)
+    setError('')
+  }
 
   // Construct match context for the AI
   const matchContext = `
@@ -118,16 +129,13 @@ export default function MatchNarration({ match }) {
     }
   }
 
-  // Clear narration when match changes so we don't show old data
+  // Trigger API call when match changes
   useEffect(() => {
-    setNormalNarration('')
-    setComprehensiveNarration('')
-    setReportType('normal')
-
     // If we are currently rate-limited, queue the retry and block the request
     if (countdown > 0) {
       setPendingRetry('normal')
       setError("Gemini API Quota Limit Reached! Auto-retrying when the countdown completes.")
+      setLoading(false)
       return
     }
 
@@ -135,6 +143,7 @@ export default function MatchNarration({ match }) {
       generateNarration('normal')
     } else {
       setError("Please add your Gemini API Key in src/components/MatchNarration.jsx (line 4)")
+      setLoading(false)
     }
   }, [match.id])
 
