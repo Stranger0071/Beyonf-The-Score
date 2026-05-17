@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 
-// Replace this string with your actual Gemini API key
+// Gemini API key
 const GEMINI_API_KEY = "AIzaSyA9W3WjUYLDXKioWFRORYczobIONUj5fnA"
 
 export default function MatchNarration({ match }) {
@@ -10,14 +10,6 @@ export default function MatchNarration({ match }) {
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
   const [countdown, setCountdown] = useState(0)
-
-  // Custom API key configuration states
-  const [customKey, setCustomKey] = useState(() => localStorage.getItem('bts_gemini_api_key') || '')
-  const [showKeyInput, setShowKeyInput] = useState(false)
-  const [tempKey, setTempKey] = useState(localStorage.getItem('bts_gemini_api_key') || '')
-
-  // Resolve which key to use (custom key has priority)
-  const activeApiKey = customKey || GEMINI_API_KEY
 
   // Construct match context for the AI
   const matchContext = `
@@ -44,8 +36,8 @@ export default function MatchNarration({ match }) {
     return () => clearInterval(timer)
   }, [countdown])
 
-  const generateNarration = async (keyToUse, type) => {
-    if (!keyToUse) return
+  const generateNarration = async (type) => {
+    if (!GEMINI_API_KEY) return
     setLoading(true)
     setError('')
     try {
@@ -67,7 +59,7 @@ export default function MatchNarration({ match }) {
         : `You are an expert cricket commentator. Write a short, engaging, and highly concise narration (1 paragraph, max 5-6 sentences) summarizing this match. Make it sound professional, dramatic, and focusing on the overall result and key players. Here are the details:\n${matchContext}`
 
       const response = await fetch(
-        `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${keyToUse}`,
+        `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`,
         {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
@@ -112,8 +104,7 @@ export default function MatchNarration({ match }) {
     } catch (err) {
       if (err.message === "Quota exceeded" || /quota|exhausted|429/i.test(err.message)) {
         setCountdown(60)
-        setError("Gemini API Quota Limit Reached! Please wait for the countdown below to complete or enter a custom key.")
-        setShowKeyInput(true) // Expand key setup panel automatically so the user can bypass it immediately
+        setError("Gemini API Quota Limit Reached! Please wait for the countdown to complete.")
       } else {
         setError(err.message || 'An error occurred while generating the summary.')
       }
@@ -128,44 +119,26 @@ export default function MatchNarration({ match }) {
     setComprehensiveNarration('')
     setReportType('normal')
     
-    // If we are currently rate-limited, block the request and maintain the error display
+    // If we are currently rate-limited, block the request
     if (countdown > 0) {
-      setError("Gemini API Quota Limit Reached! Please wait for the countdown below to complete or enter a custom key.")
+      setError("Gemini API Quota Limit Reached! Please wait for the countdown to complete.")
       return
     }
 
-    if (activeApiKey && activeApiKey !== "YOUR_API_KEY_HERE") {
-      generateNarration(activeApiKey, 'normal')
+    if (GEMINI_API_KEY) {
+      generateNarration('normal')
     } else {
-      setError("Please add your Gemini API Key directly in src/components/MatchNarration.jsx (line 4) or enter one below.")
+      setError("Please add your Gemini API Key in src/components/MatchNarration.jsx (line 4)")
     }
-  }, [match.id, activeApiKey])
+  }, [match.id])
 
   const handleTypeChange = (type) => {
     setReportType(type)
     if (type === 'comprehensive' && !comprehensiveNarration && !loading) {
-      generateNarration(activeApiKey, 'comprehensive')
+      generateNarration('comprehensive')
     } else if (type === 'normal' && !normalNarration && !loading) {
-      generateNarration(activeApiKey, 'normal')
+      generateNarration('normal')
     }
-  }
-
-  const saveCustomKey = (key) => {
-    const trimmed = key.trim()
-    if (trimmed) {
-      localStorage.setItem('bts_gemini_api_key', trimmed)
-      setCustomKey(trimmed)
-      setCountdown(0) // Cancel countdown since we are using a fresh key with fresh limits
-      setError('')
-    }
-  }
-
-  const clearCustomKey = () => {
-    localStorage.removeItem('bts_gemini_api_key')
-    setCustomKey('')
-    setTempKey('')
-    setCountdown(0)
-    setError('')
   }
 
   const currentContent = reportType === 'comprehensive' ? comprehensiveNarration : normalNarration
@@ -232,16 +205,16 @@ export default function MatchNarration({ match }) {
               </p>
             </div>
           ) : countdown > 0 ? (
-            /* Premium Rate Limit Countdown Card with Call-To-Action */
+            /* Rate Limit Countdown Card */
             <div className="flex flex-col items-center justify-center py-12 px-6 rounded-3xl border border-amber-500/10 bg-amber-500/[0.03] text-center space-y-4 max-w-xl mx-auto shadow-xl backdrop-blur-md">
               <span className="text-4xl animate-bounce">⏳</span>
               <div>
                 <h4 className="text-base font-black text-amber-400 uppercase tracking-widest">Gemini API Quota Exceeded</h4>
                 <p className="mt-2 text-sm text-slate-300 font-medium">
-                  The Google AI Studio free-tier rate limit (15 requests/min) has been temporarily reached.
+                  The Google AI Studio free-tier rate limit has been temporarily reached.
                 </p>
                 <p className="mt-1 text-xs text-slate-400 font-medium">
-                  Please hold on for <span className="font-extrabold text-emerald-400 text-sm px-1 bg-emerald-500/10 rounded border border-emerald-500/10">{countdown}s</span> or enter your own Gemini API Key below to bypass shared limits.
+                  Please hold on for <span className="font-extrabold text-emerald-400 text-sm px-1 bg-emerald-500/10 rounded border border-emerald-500/10">{countdown}s</span> before requesting a new AI narration.
                 </p>
               </div>
               <div className="w-full bg-white/5 rounded-full h-1.5 overflow-hidden max-w-xs mt-2 ring-1 ring-white/10">
@@ -265,63 +238,6 @@ export default function MatchNarration({ match }) {
             </div>
           ) : null}
         </div>
-      </div>
-
-      {/* Dynamic API Key Setup Panel */}
-      <div className="overflow-hidden rounded-[2.5rem] border border-white/5 bg-slate-900/40 p-6 sm:p-8 shadow-2xl backdrop-blur-xl">
-        <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div className="space-y-1">
-            <h4 className="text-xs font-black uppercase tracking-wider text-slate-400 flex items-center gap-2">
-              🔑 Gemini API Key Configuration
-            </h4>
-            <p className="text-[11px] text-slate-500 font-medium leading-relaxed">
-              {customKey 
-                ? "Active: Using your custom Gemini API key. All quota limits belong to your personal Google AI Studio account." 
-                : "Active: Using system API Key. Running out of quota? Paste your own API key below to bypass shared limits."
-              }
-            </p>
-          </div>
-          
-          <button
-            onClick={() => setShowKeyInput(!showKeyInput)}
-            className="text-xs font-black text-emerald-400 hover:text-emerald-300 transition-all uppercase tracking-widest bg-emerald-500/10 px-3.5 py-2 rounded-xl border border-emerald-500/15 hover:bg-emerald-500/20 active:scale-95"
-          >
-            {showKeyInput ? "Hide Settings" : (customKey ? "Update Custom Key" : "Enter Custom Key")}
-          </button>
-        </div>
-
-        {showKeyInput && (
-          <div className="mt-5 pt-5 border-t border-white/5 space-y-4 animate-in fade-in slide-in-from-top-2 duration-300">
-            <div className="flex flex-col sm:flex-row gap-3">
-              <input
-                type="password"
-                placeholder="Paste your Gemini API key (AIzaSy...)"
-                value={tempKey}
-                onChange={(e) => setTempKey(e.target.value)}
-                className="flex-1 bg-[#05070a]/60 border border-white/10 rounded-xl px-4 py-2.5 text-sm text-white focus:outline-none focus:border-emerald-500/50 transition-colors font-mono"
-              />
-              <div className="flex gap-2">
-                <button
-                  onClick={() => saveCustomKey(tempKey)}
-                  className="px-4 py-2.5 text-xs font-black uppercase tracking-wider bg-emerald-500 text-[#05070a] rounded-xl hover:bg-emerald-400 active:scale-95 transition-all shadow-lg shadow-emerald-500/10 cursor-pointer"
-                >
-                  Save Key
-                </button>
-                {customKey && (
-                  <button
-                    onClick={clearCustomKey}
-                    className="px-4 py-2.5 text-xs font-black uppercase tracking-wider bg-red-500/10 border border-red-500/20 text-red-400 rounded-xl hover:bg-red-500/20 active:scale-95 transition-all cursor-pointer"
-                  >
-                    Reset Default
-                  </button>
-                )}
-              </div>
-            </div>
-            <p className="text-[10px] text-slate-500 font-medium">
-              💡 Get your own free API key in 10 seconds by visiting <a href="https://aistudio.google.com/" target="_blank" rel="noopener noreferrer" className="text-emerald-400 underline hover:text-emerald-300 font-bold">Google AI Studio</a>.
-            </p>
-          </div>
-        )}
       </div>
     </section>
   )
