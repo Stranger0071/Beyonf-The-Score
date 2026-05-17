@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 
-// Replace this string with your actual Gemini API key or use .env.local
-const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY || ""
+// Replace this string with your actual Gemini API key
+const GEMINI_API_KEY = "AIzaSyA9W3WjUYLDXKioWFRORYczobIONUj5fnA"
 
 export default function MatchNarration({ match }) {
   const [reportType, setReportType] = useState('normal')
