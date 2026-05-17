@@ -1,10 +1,12 @@
 import { useState, useEffect } from 'react'
 
-// Replace this string with your actual Gemini API key
-const GEMINI_API_KEY = ""
+// Replace this string with your actual Gemini API key or use .env.local
+const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY || ""
 
 export default function MatchNarration({ match }) {
-  const [narration, setNarration] = useState('')
+  const [reportType, setReportType] = useState('normal')
+  const [normalNarration, setNormalNarration] = useState('')
+  const [comprehensiveNarration, setComprehensiveNarration] = useState('')
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
 
@@ -19,13 +21,30 @@ export default function MatchNarration({ match }) {
     Player of the Match: ${match.playerOfMatch}
   `
 
-  const generateNarration = async (keyToUse) => {
+  const generateNarration = async (keyToUse, type) => {
     if (!keyToUse) return
     setLoading(true)
     setError('')
     try {
+      const isComp = type === 'comprehensive'
+      const prompt = isComp 
+        ? `You are an expert cricket analyst and sports commentator. Write a highly detailed, comprehensive match report summarizing this match. 
+           Please organize your report into the following sections with clear, bold headers and emojis:
+           
+           🏟️ VENUE & PITCH CONDITIONS:
+           Analyze the venue (${match.venue}) and pitch behavior (spin, pace, bounce, boundary sizes) during this match, and how the toss decision played into this. Include realistic simulated weather details (temperature, humidity, and the crucial dew factor for evening matches) and how they influenced the gameplay (e.g., grip on the ball, swing).
+           
+           🏏 INNINGS BREAKDOWN & TURNING POINTS:
+           A chronological analysis of the key phases of both innings, highlighting pivotal partnerships, critical bowling spells, and momentum-shifting moments.
+           
+           🎯 TACTICAL REVIEW & MOTM:
+           Evaluate the captaincy decisions, tactical execution, and how the Player of the Match (${match.playerOfMatch}) carried their team to victory.
+           
+           Make it sound highly professional, expert-level, and dramatic. Use clean formatting with double line breaks between sections. Here are the match details:\n${matchContext}`
+        : `You are an expert cricket commentator. Write a short, engaging, and highly concise narration (1 paragraph, max 5-6 sentences) summarizing this match. Make it sound professional, dramatic, and focusing on the overall result and key players. Here are the details:\n${matchContext}`
+
       const response = await fetch(
-        `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${keyToUse}`,
+        `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${keyToUse}`,
         {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
@@ -34,7 +53,7 @@ export default function MatchNarration({ match }) {
               {
                 parts: [
                   {
-                    text: `You are an expert cricket commentator. Write a short, engaging, and highly concise narration (1 paragraph) summarizing this IPL match. Make it sound professional and dramatic. Here are the details:\n${matchContext}`
+                    text: prompt
                   }
                 ]
               }
@@ -47,7 +66,13 @@ export default function MatchNarration({ match }) {
       if (data.error) throw new Error(data.error.message || 'Failed to generate narration')
 
       const text = data.candidates?.[0]?.content?.parts?.[0]?.text
-      if (text) setNarration(text)
+      if (text) {
+        if (isComp) {
+          setComprehensiveNarration(text)
+        } else {
+          setNormalNarration(text)
+        }
+      }
     } catch (err) {
       setError(err.message || 'An error occurred while generating the summary.')
     } finally {
@@ -57,13 +82,26 @@ export default function MatchNarration({ match }) {
 
   // Clear narration when match changes so we don't show old data
   useEffect(() => {
-    setNarration('')
+    setNormalNarration('')
+    setComprehensiveNarration('')
+    setReportType('normal')
     if (GEMINI_API_KEY && GEMINI_API_KEY !== "YOUR_API_KEY_HERE") {
-      generateNarration(GEMINI_API_KEY)
+      generateNarration(GEMINI_API_KEY, 'normal')
     } else {
       setError("Please add your Gemini API Key directly in src/components/MatchNarration.jsx (line 4)")
     }
   }, [match.id])
+
+  const handleTypeChange = (type) => {
+    setReportType(type)
+    if (type === 'comprehensive' && !comprehensiveNarration && !loading) {
+      generateNarration(GEMINI_API_KEY, 'comprehensive')
+    } else if (type === 'normal' && !normalNarration && !loading) {
+      generateNarration(GEMINI_API_KEY, 'normal')
+    }
+  }
+
+  const currentContent = reportType === 'comprehensive' ? comprehensiveNarration : normalNarration
 
   return (
     <section className="animate-in fade-in slide-in-from-bottom-4 duration-500 space-y-8">
@@ -73,33 +111,69 @@ export default function MatchNarration({ match }) {
         </h2>
         <div className="h-px flex-grow bg-white/5" />
         <span className="rounded-full bg-emerald-500/10 px-3 py-1 text-[10px] font-black uppercase tracking-widest text-emerald-400">
-          Powered by Gemini
+          Powered by Gemini 2.5 Flash
         </span>
       </div>
 
       <div className="overflow-hidden rounded-[2.5rem] border border-white/5 bg-slate-900/40 p-8 sm:p-10 shadow-2xl backdrop-blur-xl">
         <div className="space-y-6">
-          <div className="flex justify-between items-center mb-6">
-            <p className="text-[10px] font-black uppercase tracking-[0.3em] text-slate-500">
-              AI Match Commentary
-            </p>
+          
+          {/* Header & Tabs */}
+          <div className="flex flex-col sm:flex-row justify-between sm:items-center gap-4 mb-6 border-b border-white/5 pb-6">
+            <div>
+              <p className="text-[10px] font-black uppercase tracking-[0.3em] text-slate-500">
+                AI Match Commentary
+              </p>
+              <h3 className="text-lg font-bold text-white mt-1">
+                {match.team1.short} vs {match.team2.short}
+              </h3>
+            </div>
+            
+            {/* Toggle Pills */}
+            <div className="flex p-1 rounded-xl bg-white/5 border border-white/5 w-fit shrink-0">
+              <button
+                onClick={() => handleTypeChange('normal')}
+                disabled={loading}
+                className={`px-4 py-2 text-xs font-black uppercase tracking-wider rounded-lg transition-all duration-300 ${
+                  reportType === 'normal'
+                    ? 'bg-emerald-500 text-[#05070a] shadow-lg shadow-emerald-500/20'
+                    : 'text-slate-400 hover:text-slate-200'
+                }`}
+              >
+                Quick Summary
+              </button>
+              <button
+                onClick={() => handleTypeChange('comprehensive')}
+                disabled={loading}
+                className={`px-4 py-2 text-xs font-black uppercase tracking-wider rounded-lg transition-all duration-300 ${
+                  reportType === 'comprehensive'
+                    ? 'bg-emerald-500 text-[#05070a] shadow-lg shadow-emerald-500/20'
+                    : 'text-slate-400 hover:text-slate-200'
+                }`}
+              >
+                Comprehensive Report
+              </button>
+            </div>
           </div>
 
+          {/* Loader */}
           {loading ? (
-            <div className="flex flex-col items-center justify-center py-12 gap-4">
-              <div className="h-8 w-8 animate-spin rounded-full border-2 border-emerald-500 border-t-transparent" />
-              <p className="text-xs font-bold text-emerald-500 animate-pulse uppercase tracking-widest">Generating Narration...</p>
+            <div className="flex flex-col items-center justify-center py-16 gap-4">
+              <div className="h-10 w-10 animate-spin rounded-full border-2 border-emerald-500 border-t-transparent" />
+              <p className="text-xs font-bold text-emerald-500 animate-pulse uppercase tracking-widest">
+                Generating {reportType === 'comprehensive' ? 'Comprehensive Report' : 'Quick Summary'}...
+              </p>
             </div>
           ) : error ? (
             <div className="rounded-2xl border border-red-500/10 bg-red-500/5 p-6 text-center">
               <p className="text-sm font-bold text-red-400">{error}</p>
             </div>
-          ) : narration ? (
+          ) : currentContent ? (
             <div className="relative">
               <span className="absolute -left-4 -top-4 text-6xl text-white/5 font-serif">"</span>
-              <p className="text-lg leading-relaxed text-slate-300 font-medium relative z-10">
-                {narration}
-              </p>
+              <div className="text-slate-300 font-medium relative z-10 whitespace-pre-line leading-relaxed text-sm sm:text-base space-y-4">
+                {currentContent}
+              </div>
               <span className="absolute -bottom-8 right-0 text-6xl text-white/5 font-serif rotate-180">"</span>
             </div>
           ) : null}
