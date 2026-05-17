@@ -14,6 +14,7 @@ import Glossary from './components/Glossary'
 import NavBar from './components/NavBar'
 import HeadToHead from './components/HeadToHead'
 import VenueStats from './components/VenueStats'
+import MatchNarration from './components/MatchNarration'
 function App() {
   const [season, setSeason] = useState('all')
   const filtered = useMemo(() => getMatches(season), [season])
@@ -80,6 +81,7 @@ function App() {
 
         {!loading && match && (
           <div className="min-h-[400px]">
+            {activeTab === 'section-narration' && <MatchNarration match={match} />}
             {activeTab === 'section-scorecard' && <MatchScorecard match={match} />}
             {activeTab === 'section-analytics' && <MatchAnalytics match={match} />}
             {activeTab === 'section-performers' && <PlayerSpotlight playerOfMatch={squad?.playerOfMatch} />}
